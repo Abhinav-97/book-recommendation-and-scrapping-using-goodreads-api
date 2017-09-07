@@ -51,6 +51,10 @@ url_client = s.get(top_librarians_url)
 top_librarians_page = url_client
 get_user_ids(top_librarians_page)
 
+top_librarians_year_url = 'https://www.goodreads.com/librarian/top_librarians?country=all&duration=y'
+url_client = s.get(top_librarians_year_url)
+top_librarians_year_page = url_client
+get_user_ids(top_librarians_year_page)
 
 top_readers_url = 'https://www.goodreads.com/user/top_readers?country=all&duration=a'
 url_client = s.get(top_readers_url)
@@ -73,6 +77,26 @@ popular_reviewers_url = 'https://www.goodreads.com/user/best_reviewers?country=a
 url_client = s.get(popular_reviewers_url)
 popular_reviewers_page = url_client
 get_user_ids(popular_reviewers_page)
+
+popular_reviewers_year_url = 'https://www.goodreads.com/user/best_reviewers?country=all&duration=y'
+url_client = s.get(popular_reviewers_year_url)
+popular_reviewers_year_page = url_client
+get_user_ids(popular_reviewers_year_page)
+
+popular_reviewers_us_year_url = 'https://www.goodreads.com/user/best_reviewers?country=US&duration=y'
+url_client = s.get(popular_reviewers_us_year_url)
+popular_reviewers_us_year_page = url_client
+get_user_ids(popular_reviewers_us_year_page)
+
+popular_reviewers_ca_year_url = 'https://www.goodreads.com/user/best_reviewers?country=CA&duration=y'
+url_client = s.get(popular_reviewers_ca_year_url)
+popular_reviewers_ca_year_page = url_client
+get_user_ids(popular_reviewers_ca_year_page)
+
+popular_reviewers_uk_year_url = 'https://www.goodreads.com/user/best_reviewers?country=GB&duration=y'
+url_client = s.get(popular_reviewers_uk_year_url)
+popular_reviewers_uk_year_page = url_client
+get_user_ids(popular_reviewers_uk_year_page)
 
 popular_reviewers_us_url = 'https://www.goodreads.com/user/best_reviewers?country=US&duration=a'
 url_client = s.get(popular_reviewers_us_url)
@@ -104,6 +128,22 @@ url_client = s.get(top_reviewers_year_url)
 top_reviewers_year_page = url_client
 get_user_ids(top_reviewers_year_page)
 
+
+top_reviewers_year_us_url = 'https://www.goodreads.com/user/top_reviewers?country=US&duration=y'
+url_client = s.get(top_reviewers_year_us_url)
+top_reviewers_year_us_page = url_client
+get_user_ids(top_reviewers_year_us_page)
+
+top_reviewers_year_ca_url = 'https://www.goodreads.com/user/top_reviewers?country=CA&duration=y'
+url_client = s.get(top_reviewers_year_ca_url)
+top_reviewers_year_ca_page = url_client
+get_user_ids(top_reviewers_year_ca_page)
+
+top_reviewers_year_uk_url = 'https://www.goodreads.com/user/top_reviewers?country=GB&duration=y'
+url_client = s.get(top_reviewers_year_uk_url)
+top_reviewers_year_uk_page = url_client
+get_user_ids(top_reviewers_year_uk_page)
+
 top_reviewers_us_url = 'https://www.goodreads.com/user/top_reviewers?country=US&duration=a'
 url_client = s.get(top_reviewers_us_url)
 top_reviewers_us_page = url_client
@@ -114,6 +154,10 @@ url_client = s.get(top_reviewers_ca_url)
 top_reviewers_ca_page = url_client
 get_user_ids(top_reviewers_ca_page)
 
+top_reviewers_uk_url = 'https://www.goodreads.com/user/top_reviewers?country=GB&duration=a'
+url_client = s.get(top_reviewers_uk_url)
+top_reviewers_uk_page = url_client
+get_user_ids(top_reviewers_uk_page)
 
 print(len(user_ids))
 print(len(set(user_ids)))
