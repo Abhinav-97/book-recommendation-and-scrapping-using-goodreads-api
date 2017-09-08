@@ -24,10 +24,10 @@ response = s.post('https://www.goodreads.com/user/sign_in', data=form)
 
 print(response.ok)
 
-def get_book_ids():
+def get_book_ids(url):
 
-	for i in range(1,5):
-		page_url = 'https://www.goodreads.com/shelf/show/classics?page={}'.format(str(i))
+	for i in range(1,7):
+		page_url = url + '?page=' + str(i)
 		# page_url = url + '?page={}'.format(str(i))
 		print(page_url)
 		page = s.get(page_url)
@@ -44,18 +44,30 @@ def get_book_ids():
 
 		for books in book_list:
 			book = books.find('div', {'class':'left'})
-			book_link = book.find('a', {'class':'bookTitle'})
-			book_title = book_link.text
-			print(book_title)
-			book_link = book_link.get('href')
+			book_links = book.find_all('a')
+			book_title = book_links[0].get('title')
+			# print(book_title)
+			book_link = book_links[0].get('href')
 			book_link = book_link.split('/')
 			# print(book_link)
 			book_id= book_link[-1].split('.')[0]
 
-			book_ids.append((book_id.encode('utf-8'), book_title.encode()))
+			book_ids.append((book_id, book_title))
 		print('\n')
 
-get_book_ids()#'https://www.goodreads.com/shelf/show/classics')
+get_book_ids('https://www.goodreads.com/shelf/show/classics')
+get_book_ids('https://www.goodreads.com/shelf/show/fiction')
+get_book_ids('https://www.goodreads.com/shelf/show/mystery')
+get_book_ids('https://www.goodreads.com/shelf/show/thriller')
+get_book_ids('https://www.goodreads.com/shelf/show/non-fiction')
+get_book_ids('https://www.goodreads.com/shelf/show/philosophy')
+get_book_ids('https://www.goodreads.com/shelf/show/science-fiction')
+get_book_ids('https://www.goodreads.com/shelf/show/horror')
+get_book_ids('https://www.goodreads.com/shelf/show/fantasy')
+get_book_ids('https://www.goodreads.com/shelf/show/young-adult')
+get_book_ids('https://www.goodreads.com/shelf/show/romance')
+get_book_ids('https://www.goodreads.com/shelf/show/adult')
+
 books = []
 for bookid, book in book_ids:
 	# print(type(bookid))
@@ -66,4 +78,4 @@ for bookid, book in book_ids:
 
 # print([x.encode('utf-8'),y.encode('utf-8') for x,y in books])
 print(len(books))
-print((set(books)))
+print(len(set(books)))
