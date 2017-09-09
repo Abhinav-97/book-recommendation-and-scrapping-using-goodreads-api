@@ -4,6 +4,7 @@ import pickle
 import requests
 import re
 from urllib.request import urlopen
+import pandas as pd
 
 book_ids = []
 s = requests.session()
@@ -34,25 +35,28 @@ def get_book_ids(url):
 		# page = urlopen(page_url)  
 		soup = BeautifulSoup(page.content, 'html.parser')
 		content = soup.find('div',{'class':'content'})
-		# print(content.encode('utf-8'))
+		# print(content.encode('utf-8').decode('utf-8'))
 		main_content_container = content.find('div', {'class': 'mainContentContainer'})
 		main_content = main_content_container.find('div', {'class':'mainContent'})
-		# print(main_content.encode('utf-8'))
+		# print(main_content.encode('utf-8').decode())
 		main_content_float = main_content.find('div', {'class':'mainContentFloat'})
 		left_container = main_content_float.find('div', {'class':'leftContainer'})
 		book_list = left_container.find_all('div', {'class':'elementList'})
 
 		for books in book_list:
 			book = books.find('div', {'class':'left'})
+			book_span = books.find('span', {'itemprop':'author'})
+			author_name = book_span.find('span', {'itemprop':'name'})
+			book_author = author_name.text
 			book_links = book.find_all('a')
 			book_title = book_links[0].get('title')
-			# print(book_title)
+			# print(book_title.decode('utf-8'))
 			book_link = book_links[0].get('href')
 			book_link = book_link.split('/')
 			# print(book_link)
 			book_id= book_link[-1].split('.')[0]
 
-			book_ids.append((book_id, book_title))
+			book_ids.append((book_id, book_title,book_author))
 		print('\n')
 
 get_book_ids('https://www.goodreads.com/shelf/show/classics')
@@ -69,13 +73,31 @@ get_book_ids('https://www.goodreads.com/shelf/show/romance')
 get_book_ids('https://www.goodreads.com/shelf/show/adult')
 
 books = []
-for bookid, book in book_ids:
+for bookid, book, b_author in book_ids:
 	# print(type(bookid))
 	# print(bookid)
 	bookid = re.sub(r'\D', "", bookid)
-	books.append((bookid,book))
+	books.append((bookid, book, b_author))
 	# print(bookid)
 
 # print([x.encode('utf-8'),y.encode('utf-8') for x,y in books])
-print(len(books))
-print(len(set(books)))
+finbook_list = (sorted(set(books), key=lambda x: books.index(x)))
+print(len(finbook_list))
+
+final_book_ids = []
+final_books = []
+final_book_authors = [] 
+
+for ids, books, author in finbook_list:
+
+	final_book_ids.append(ids)
+	final_books.append(books)
+	final_book_authors.append(author)
+
+book_data = pd.DataFrame({'book_id': final_book_ids,
+						  'book_title': final_books,
+						   'author': final_book_authors})
+book_data.to_csv('book_data.csv', index=False)
+
+with open('book_ids.txt', 'wb') as fp:
+	pickle.dump(finbook_list,fp)

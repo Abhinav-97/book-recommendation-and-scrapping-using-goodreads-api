@@ -1,0 +1,2319 @@
+author,book_id,book_title
+Jane Austen,1885,Pride and Prejudice
+F. Scott Fitzgerald,4671,The Great Gatsby
+Harper Lee,2657,To Kill a Mockingbird
+J.D. Salinger,5107,The Catcher in the Rye
+George Orwell,7613,Animal Farm
+William Golding,7624,Lord of the Flies
+Louisa May Alcott,1934,"Little Women (Little Women, #1)"
+William Shakespeare,18135,Romeo and Juliet
+Mary Wollstonecraft Shelley,18490,Frankenstein
+John Steinbeck,890,Of Mice and Men
+Oscar Wilde,5297,The Picture of Dorian Gray
+Mark Twain,2956,The Adventures of Huckleberry Finn
+Charles Dickens,1953,A Tale of Two Cities
+Jane Austen,6969,Emma
+Charles Dickens,2623,Great Expectations
+Bram Stoker,17245,Dracula
+Ray Bradbury,4381,Fahrenheit 451
+Homer,1381,The Odyssey
+Jane Austen,2156,Persuasion
+William Shakespeare,1420,Hamlet
+Leo Tolstoy,15823480,Anna Karenina
+Alexandre Dumas,7126,The Count of Monte Cristo
+J.R.R. Tolkien,5907,The Hobbit
+Charles Dickens,5326,A Christmas Carol
+Victor Hugo,24280,Les Misérables
+Frances Hodgson Burnett,2998,The Secret Garden
+Aldous Huxley,5129,Brave New World
+Jane Austen,50398,Northanger Abbey
+Mark Twain,24583,The Adventures of Tom Sawyer
+John Steinbeck,18114322,The Grapes of Wrath
+Anne Frank,48855,The Diary of a Young Girl
+Ernest Hemingway,2165,The Old Man and the Sea
+Margaret Mitchell,18405,Gone with the Wind
+William Shakespeare,1622,A Midsummer Night's Dream
+Kurt Vonnegut Jr.,4981,Slaughterhouse-Five
+Herman Melville,153747,"Moby-Dick or, The Whale"
+Lewis Carroll,24213,Alice's Adventures in Wonderland & Through the Looking-Glass
+Charles Dickens,18254,Oliver Twist
+Homer,1371,The Iliad
+Robert Louis Stevenson,295,Treasure Island
+Joseph Heller,168668,"Catch-22 (Catch-22, #1)"
+Robert Louis Stevenson,51496,The Strange Case of Dr. Jekyll and Mr. Hyde
+Joseph Conrad,4900,Heart of Darkness
+J.R.R. Tolkien,34,"The Fellowship of the Ring (The Lord of the Rings, #1)"
+Alexandre Dumas,7190,"The Three Musketeers (The D'Artagnan Romances, #1)"
+Daphne du Maurier,17899948,Rebecca
+Franz Kafka,485894,The Metamorphosis
+John Steinbeck,4406,East of Eden
+C.S. Lewis,100915,"The Lion, the Witch, and the Wardrobe (Chronicles of Narnia, #1)"
+Thomas Hardy,32261,Tess of the D'Urbervilles
+Gustave Flaubert,2175,Madame Bovary
+William Shakespeare,12996,Othello
+Albert Camus,49552,The Stranger
+Ken Kesey,332613,One Flew Over the Cuckoo's Nest
+Oscar Wilde,92303,The Importance of Being Earnest
+H.G. Wells,2493,The Time Machine
+Jonathan Swift,7733,Gulliver's Travels
+Charles Dickens,58696,David Copperfield
+Miguel de Cervantes Saavedra,3836,Don Quixote
+Lewis Carroll,13023,Alice in Wonderland
+Arthur Miller,17250,The Crucible
+Unknown,52357,Beowulf
+J.M. Barrie,34268,Peter Pan
+Ernest Hemingway,3876,The Sun Also Rises
+Daniel Defoe,2932,Robinson Crusoe
+Margaret Atwood,38447,The Handmaid's Tale
+Jack London,1852,The Call of the Wild
+E.B. White,24178,Charlotte's Web
+Gabriel García Márquez,320,One Hundred Years of Solitude
+Frances Hodgson Burnett,3008,A Little Princess
+Gaston Leroux,480204,The Phantom of the Opera
+Voltaire,19380,Candide
+Fyodor Dostoyevsky,4934,The Brothers Karamazov
+Betty  Smith,14891,A Tree Grows in Brooklyn
+J.R.R. Tolkien,15241,"The Two Towers (The Lord of the Rings, #2)"
+William Shakespeare,12957,Much Ado About Nothing
+Virginia Woolf,14942,Mrs. Dalloway
+Ernest Hemingway,10799,A Farewell to Arms
+Harriet Beecher Stowe,46787,Uncle Tom's Cabin
+Victor Hugo,30597,The Hunchback of Notre-Dame
+J.R.R. Tolkien,18512,"The Return of the King (The Lord of the Rings, #3)"
+Arthur Conan Doyle,3590,The Adventures of Sherlock Holmes
+Elizabeth Gaskell,156538,North and South
+Arthur Conan Doyle,8921,The Hound of the Baskervilles
+Hermann Hesse,52036,Siddhartha
+Erich Maria Remarque,355697,All Quiet on the Western Front
+William Shakespeare,13006,Julius Caesar
+William Shakespeare,12938,King Lear
+George Eliot,19089,Middlemarch
+Jules Verne,33507,Twenty Thousand Leagues Under the Sea
+Richard Adams,76620,"Watership Down (Watership Down, #1)"
+Jules Verne,54479,"Around the World in Eighty Days (Extraordinary Voyages, #11)"
+Arthur Conan Doyle,102868,A Study in Scarlet
+Edith Wharton,53835,The Age of Innocence
+John Milton,15997,Paradise Lost
+H.G. Wells,8909,The War of the Worlds
+Wilkie Collins,5890,The Woman in White
+George Orwell,5470,1984
+Dante Alighieri,15645,Inferno (The Divine Comedy #1)
+Jack Kerouac,70401,On the Road
+William Shakespeare,1625,Twelfth Night
+Ernest Hemingway,46170,For Whom the Bell Tolls
+William Makepeace Thackeray,5797,Vanity Fair
+William Shakespeare,47021,The Taming of the Shrew
+E.M. Forster,3087,A Room with a View
+Agatha Christie,16299,And Then There Were None
+Madeleine L'Engle,18131,"A Wrinkle in Time (A Wrinkle in Time Quintet, #1)"
+Dante Alighieri,6656,The Divine Comedy
+Elie Wiesel,1617,Night (The Night Trilogy #1)
+J.R.R. Tolkien,33,"The Lord of the Rings (The Lord of the Rings, #1-3)"
+William Shakespeare,24128,The Merchant of Venice
+Anna Sewell,3685,Black Beauty
+Daniel Keyes,18373,Flowers for Algernon
+Zora Neale Hurston,37415,Their Eyes Were Watching God
+John Steinbeck,5308,The Pearl
+Kenneth Grahame,5659,The Wind in the Willows
+Emmuska Orczy,136116,The Scarlet Pimpernel
+Truman Capote,251688,Breakfast at Tiffany's
+Charles Dickens,31242,Bleak House
+Arthur Miller,12898,Death of a Salesman
+Paulo Coelho,865,The Alchemist
+Charlotte Brontë,31173,Villette
+Virginia Woolf,59716,To the Lighthouse
+C.S. Lewis,11127,"The Chronicles of Narnia (Chronicles of Narnia, #1-7)"
+Pearl S. Buck,1078,"The Good Earth (House of Earth, #1)"
+Jules Verne,32829,"Journey to the Center of the Earth (Extraordinary Voyages, #3)"
+James Joyce,338798,Ulysses
+William Faulkner,77013,As I Lay Dying
+Virgil,12914,The Aeneid
+H.G. Wells,17184,The Invisible Man
+Franz Kafka,17690,The Trial
+D.H. Lawrence,32049,Lady Chatterley's Lover
+Ayn Rand,662,Atlas Shrugged
+Willa Cather,17150,My Ántonia
+Charlotte Brontë,10210,Jane Eyre
+Edith Wharton,5246,Ethan Frome
+James Joyce,7588,A Portrait of the Artist as a Young Man
+John Knowles,5148,A Separate Peace
+Chinua Achebe,37781,"Things Fall Apart (The African Trilogy, #1)"
+Jack London,43035,White Fang
+Mikhail Bulgakov,117833,The Master and Margarita
+C.S. Lewis,65605,"The Magician's Nephew (Chronicles of Narnia, #6)"
+Tennessee Williams,12220,A Streetcar Named Desire
+L.M. Montgomery,77390,"Anne of Avonlea (Anne of Green Gables, #2)"
+Ralph Ellison,16981,Invisible Man
+Johanna Spyri,93,Heidi
+Walter Scott,6440,Ivanhoe
+Truman Capote,168642,In Cold Blood
+Sophocles,7728,"Antigone (The Theban Plays, #3)"
+Fyodor Dostoyevsky,12505,The Idiot
+Douglas Adams,386162,The Hitchhiker's Guide to the Galaxy
+Jacob Grimm,22917,The Complete Grimm's Fairy Tales
+Wilson Rawls,10365,Where the Red Fern Grows
+Stephen Crane,35220,The Red Badge of Courage
+Mark Twain,62446,The Prince and the Pauper
+James Joyce,11012,Dubliners
+Henry James,264,The Portrait of a Lady
+Ayn Rand,2122,The Fountainhead
+Aesop,21348,Aesop's Fables
+F. Scott Fitzgerald,46164,Tender Is the Night
+Anne Brontë,298230,Agnes Grey
+Kurt Vonnegut Jr.,135479,Cat's Cradle
+George Eliot,54539,Silas Marner
+Arthur Conan Doyle,608474,The Sign of Four
+C.S. Lewis,121749,"Prince Caspian (Chronicles of Narnia, #2)"
+Wilkie Collins,6138,The Moonstone
+Virginia Woolf,18521,A Room of One's Own
+Toni Morrison,6149,Beloved
+C.S. Lewis,140225,"The Voyage of the Dawn Treader (Chronicles of Narnia, #3)"
+C.S. Lewis,84119,"The Horse and His Boy (Chronicles of Narnia, #5)"
+Plato,30289,The Republic
+James Fenimore Cooper,38296,The Last of the Mohicans (The Leatherstocking Tales #2)
+L.M. Montgomery,77392,"Anne of the Island (Anne of Green Gables, #3)"
+Mark Twain,162898,A Connecticut Yankee in King Arthur's Court
+William Shakespeare,42607,As You Like It
+Rudyard Kipling,77270,The Jungle Book
+Charles Dickens,5344,Hard Times
+Agatha Christie,853510,"Murder on the Orient Express (Hercule Poirot, #10)"
+George Bernard Shaw,7714,Pygmalion
+Maya Angelou,13214,I Know Why the Caged Bird Sings
+Elizabeth Gaskell,383206,Wives and Daughters
+Anonymous,93101,The Arabian Nights
+Thomas More,18414,Utopia
+Evelyn Waugh,30933,Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder
+Thomas Hardy,50798,Jude the Obscure
+Frank Herbert,234225,Dune (Dune Chronicles #1)
+J.D. Salinger,5113,Franny and Zooey
+Edgar Allan Poe,23919,The Complete Stories and Poems
+S.E. Hinton,231804,The Outsiders
+C.S. Lewis,65641,"The Silver Chair (Chronicles of Narnia, #4)"
+Tennessee Williams,92517,The Glass Menagerie
+T.H. White,43545,The Once and Future King (The Once and Future King #1-4)
+Samuel Beckett,17716,Waiting for Godot
+C.S. Lewis,84369,"The Last Battle (Chronicles of Narnia, #7)"
+Shel Silverstein,370493,The Giving Tree
+Alexandre Dumas,54499,"The Man in the Iron Mask (The D'Artagnan Romances, #3.3)"
+John Steinbeck,4799,Cannery Row
+Albert Camus,11989,The Plague
+J.K. Rowling,3,"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)"
+Milan Kundera,9717,The Unbearable Lightness of Being
+Washington Irving,93261,The Legend of Sleepy Hollow
+Johann Wolfgang von Goethe,16640,The Sorrows of Young Werther
+Fyodor Dostoyevsky,7144,Crime and Punishment
+Antoine de Saint-Exupéry,157993,The Little Prince
+Thomas Hardy,56759,The Mayor of Casterbridge
+C.S. Lewis,17383917,The Screwtape Letters
+Louisa May Alcott,78950,"Little Men (Little Women, #2)"
+Johann David Wyss,62111,The Swiss Family Robinson  
+L.M. Montgomery,8127,"Anne of Green Gables (Anne of Green Gables, #1)"
+Charles Dickens,325085,Nicholas Nickleby
+Laura Ingalls Wilder,77767,"Little House on the Prairie (Little House, #2)"
+Elizabeth Gaskell,182381,Cranford
+Jane Austen,91582,Lady Susan
+F. Scott Fitzgerald,4708,The Beautiful and Damned
+John Bunyan,29797,The Pilgrim's Progress
+Johann Wolfgang von Goethe,14706,Faust: First Part
+Dodie Smith,33602148,I Capture the Castle
+Charlotte Perkins Gilman,286957,The Yellow Wall-Paper
+Shel Silverstein,30119,Where the Sidewalk Ends
+George Eliot,20564,The Mill on the Floss
+Edmond Rostand,15638,Cyrano de Bergerac
+Charles Dickens,31250,Little Dorrit
+Daniel Defoe,38262,Moll Flanders
+Jane Austen,45032,Mansfield Park
+Unknown,3049,Sir Gawain and the Green Knight 
+Walt Whitman,27494,Leaves of Grass
+Virginia Woolf,18839,Orlando
+Margery Williams Bianco,144974,The Velveteen Rabbit
+Maurice Sendak,19543,Where the Wild Things Are
+Nathaniel Hawthorne,90192,The House of the Seven Gables
+Orson Scott Card,375802,"Ender's Game (Ender's Saga, #1)"
+Lewis Carroll,6324090,Alice's Adventures in Wonderland
+L.M. Montgomery,77394,"Anne's House of Dreams (Anne of Green Gables, #5)"
+Rudyard Kipling,41684,The Jungle Books
+Robert Louis Stevenson,325128,"Kidnapped (David Balfour, #1)"
+William Shakespeare,42058,Richard III
+Natalie Babbitt,84981,Tuck Everlasting
+Aleksandr Solzhenitsyn,17125,One Day in the Life of Ivan Denisovich
+Hans Christian Andersen,46306,The Complete Fairy Tales
+Sylvia Plath,6514,The Bell Jar
+Euripides,752900,Medea
+P.L. Travers,152380,"Mary Poppins (Mary Poppins, #1)"
+William Shakespeare,37526,Henry V
+D.H. Lawrence,32071,Sons and Lovers
+Sophocles,1540,"The Oedipus Cycle: Oedipus Rex/Oedipus at Colonus/Antigone (The Theban Plays, #1–3)"
+Shirley Jackson,89717,The Haunting of Hill House
+W. Somerset Maugham,31548,Of Human Bondage
+Nikolai Gogol,28381,Dead Souls
+Pierre-Ambroise Choderlos de Laclos,49540,Les Liaisons dangereuses
+Charles Dickens,31244,Our Mutual Friend
+Ray Bradbury,76778,The Martian Chronicles
+Umberto Eco,119073,The Name of the Rose
+Suzanne Collins,2767052,"The Hunger Games (The Hunger Games, #1)"
+Dan Brown,968,"The Da Vinci Code (Robert Langdon, #2)"
+Khaled Hosseini,77203,The Kite Runner
+J.K. Rowling,5,"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)"
+Stieg Larsson,2429135,"The Girl with the Dragon Tattoo (Millennium, #1)"
+J.K. Rowling,6,"Harry Potter and the Goblet of Fire (Harry Potter, #4)"
+Suzanne Collins,7260188,"Mockingjay (The Hunger Games, #3)"
+J.K. Rowling,136251,"Harry Potter and the Deathly Hallows (Harry Potter, #7)"
+J.K. Rowling,1,"Harry Potter and the Half-Blood Prince (Harry Potter, #6)"
+Kathryn Stockett,4667024,The Help
+Dan Brown,960,"Angels & Demons  (Robert Langdon, #1)"
+Markus Zusak,19063,The Book Thief
+Audrey Niffenegger,18619684,The Time Traveler's Wife
+Alice Sebold,12232938,The Lovely Bones
+Arthur Golden,929,Memoirs of a Geisha
+John Green,11870085,The Fault in Our Stars
+George R.R. Martin,13496,"A Game of Thrones (A Song of Ice and Fire, #1)"
+Paula Hawkins,22557272,The Girl on the Train
+Khaled Hosseini,128029,A Thousand Splendid Suns
+Sue Monk Kidd,37435,The Secret Life of Bees
+Stieg Larsson,5060378,"The Girl Who Played with Fire (Millennium, #2)"
+Neil Gaiman,30165203,American Gods
+Stephenie Meyer,41865,"Twilight (Twilight, #1)"
+Jeffrey Eugenides,2187,Middlesex
+Anthony Doerr,18143977,All the Light We Cannot See
+Emma Donoghue,7937843,Room
+Stieg Larsson,6892870,"The Girl Who Kicked the Hornet's Nest (Millennium, #3)"
+Veronica Roth,13335037,"Divergent (Divergent, #1)"
+Donna Tartt,17333223,The Goldfinch
+Stephen Chbosky,22628,The Perks of Being a Wallflower
+Kazuo Ishiguro,6334,Never Let Me Go
+Erin Morgenstern,9361589,The Night Circus
+George R.R. Martin,10572,"A Clash of Kings  (A Song of Ice and Fire, #2)"
+Jane Austen,14935,Sense and Sensibility
+Chuck Palahniuk,5759,Fight Club
+Neil Gaiman,15783514,The Ocean at the End of the Lane
+Jodi Picoult,10917,My Sister's Keeper
+Dan Brown,6411961,"The Lost Symbol (Robert Langdon, #3)"
+Ernest Cline,9969571,Ready Player One
+Carlos Ruiz Zafón,1232,"The Shadow of the Wind (The Cemetery of Forgotten Books,  #1)"
+Jonathan Safran Foer,4588,Extremely Loud and Incredibly Close
+Mary Ann Shaffer,2728527,The Guernsey Literary and Potato Peel Pie Society
+George R.R. Martin,62291,"A Storm of Swords (A Song of Ice and Fire, #3)"
+Stephenie Meyer,49041,"New Moon (Twilight, #2)"
+Michael Crichton,6424171,"Jurassic Park (Jurassic Park, #1)"
+George R.R. Martin,13497,"A Feast for Crows (A Song of Ice and Fire, #4)"
+Ken Follett,5043,"The Pillars of the Earth (Kingsbridge, #1)"
+Philip Pullman,119322,"The Golden Compass (His Dark Materials, #1)"
+Stephenie Meyer,428263,"Eclipse (Twilight, #3)"
+Stephen King,11588,The Shining (The Shining #1)
+Helen Fielding,227443,"Bridget Jones's Diary (Bridget Jones, #1)"
+Stephen King,149267,The Stand
+Max Brooks,8908,World War Z: An Oral History of the Zombie War
+Emily St. John Mandel,20170404,Station Eleven
+Maria Semple,13526165,"Where'd You Go, Bernadette"
+Diana Gabaldon,10964,"Outlander (Outlander, #1)"
+Terry Pratchett,12067,"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch"
+Kim Edwards,10441,The Memory Keeper's Daughter
+Michael Chabon,3985,The Amazing Adventures of Kavalier & Clay
+Ransom Riggs,9460487,"Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children, #1)"
+John Kennedy Toole,310612,A Confederacy of Dunces
+Donna Tartt,29044,The Secret History
+Robin Sloan,1353887324,"Mr. Penumbra's 24-Hour Bookstore (Mr. Penumbra's 24-Hour Bookstore, #1)"
+Dan Brown,17212231,"Inferno (Robert Langdon, #4)"
+Veronica Roth,11735983,"Insurgent (Divergent, #2)"
+Neil Gaiman,14497,Neverwhere
+Garth Stein,3153910,The Art of Racing in the Rain
+Diane Setterfield,40440,The Thirteenth Tale
+George R.R. Martin,10664113,"A Dance with Dragons (A Song of Ice and Fire, #5)"
+Stephen King,10644930112263,11/22/63
+John Irving,4473,A Prayer for Owen Meany
+Haruki Murakami,11275,The Wind-Up Bird Chronicle
+Haruki Murakami,4929,Kafka on the Shore
+Fredrik Backman,18774964,A Man Called Ove
+John Green,99561,Looking for Alaska
+Arundhati Roy,9777,The God of Small Things
+Dan Brown,11125,Digital Fortress
+Harper Lee,24817626,Go Set a Watchman
+Dan Brown,976,Deception Point
+Leo Tolstoy,656,War and Peace
+Margaret Atwood,46756,"Oryx and Crake (MaddAddam, #1)"
+Ann Patchett,5826,Bel Canto
+Elizabeth Kostova,10692,The Historian
+Nicholas Sparks,15931,"The Notebook (The Notebook, #1)"
+Neil Gaiman,2213661,The Graveyard Book
+Chimamanda Ngozi Adichie,15796700,Americanah
+Jennifer Egan,7331435,A Visit from the Goon Squad
+Rick Riordan,28187,"The Lightning Thief (Percy Jackson and the Olympians, #1)"
+Louis Sachar,38709,"Holes (Holes, #1)"
+Kazuo Ishiguro,28921,The Remains of the Day
+M.L. Stedman,13158800,The Light Between Oceans
+Susanna Clarke,14201,Jonathan Strange & Mr Norrell
+Stephen King,43615,"The Gunslinger (The Dark Tower, #1)"
+Tracy Chevalier,2865,Girl with a Pearl Earring
+Robert Galbraith,16160797,"The Cuckoo's Calling (Cormoran Strike, #1)"
+Haruki Murakami,10357575184,1Q84
+John Irving,7069,The World According to Garp
+Rainbow Rowell,15745753,Eleanor & Park
+Abraham Verghese,3591262,Cutting for Stone
+Neil Gaiman,16793,Stardust
+Veronica Roth,18710190,"Allegiant (Divergent, #3)"
+Gabrielle Zevin,18293427,The Storied Life of A.J. Fikry
+David Foster Wallace,6759,Infinite Jest
+Gillian Flynn,5886881,Dark Places
+Margaret Atwood,78433,The Blind Assassin
+Patrick Rothfuss,186074,"The Name of the Wind (The Kingkiller Chronicle, #1)"
+Jonathan Safran Foer,256566,Everything Is Illuminated
+John Grisham,5358,"The Firm (Penguin Readers, Level 5)"
+Jonathan Franzen,3805,The Corrections
+Gillian Flynn,18045891,Sharp Objects
+Wally Lamb,5203,She's Come Undone
+Patrick Süskind,343,Perfume: The Story of a Murderer
+Mario Puzo,22034,The Godfather
+Stephen King,830502,It
+Roald Dahl,6310,"Charlie and the Chocolate Factory (Charlie Bucket, #1)"
+Bret Easton Ellis,28676,American Psycho
+William Paul Young,1812457,The Shack
+John Grisham,32542,A Time to Kill
+Janet Fitch,32234,White Oleander
+Julian Barnes,10746542,The Sense of an Ending
+William Faulkner,10975,The Sound and the Fury
+Jonathan Franzen,7905092,Freedom
+José Saramago,2526,Blindness
+Philip Pullman,119324,"The Subtle Knife (His Dark Materials, #2)"
+Jhumpa Lahiri,5439,Interpreter of Maladies
+Neil Gaiman,17061,Coraline
+Christopher Paolini,113436,"Eragon (The Inheritance Cycle, #1)"
+Laura Esquivel,6952,Like Water for Chocolate
+Zadie Smith,3711,White Teeth
+Chuck Palahniuk,29059,Choke
+Lauren Weisberger,5139,"The Devil Wears Prada (The Devil Wears Prada, #1)"
+Rebecca Wells,137791,Divine Secrets of the Ya-Ya Sisterhood
+Lisa See,1103,Snow Flower and the Secret Fan
+James Dashner,6186357,"The Maze Runner (Maze Runner, #1)"
+Tatiana de Rosnay,556602,Sarah's Key
+Marilynne Robinson,68210,"Gilead (Gilead, #1)"
+Isaac Asimov,29579,Foundation (Foundation #1)
+Kristin Hannah,21853621,The Nightingale
+J.R.R. Tolkien,7332,The Silmarillion (Middle-Earth Universe)
+Ann Patchett,9118135,State of Wonder
+Philip Pullman,18122,"The Amber Spyglass (His Dark Materials, #3)"
+Stephen King,10592,Carrie
+Salman Rushdie,14836,Midnight's Children
+Lev Grossman,6101718,The Magicians (The Magicians #1)
+Neil Gaiman,2744,Anansi Boys
+Douglas Adams,8695,"The Restaurant at the End of the Universe (Hitchhiker's Guide, #2)"
+Cormac McCarthy,394535,"Blood Meridian, or the Evening Redness in the West"
+Stephenie Meyer,1656001,"The Host (The Host, #1)"
+Bernhard Schlink,101299,The Reader
+Mark Z. Danielewski,24800,House of Leaves
+Toni Morrison,11337,The Bluest Eye
+Jasper Fforde,27003,"The Eyre Affair (Thursday Next, #1)"
+Hilary Mantel,6101138,"Wolf Hall (Thomas Cromwell, #1)"
+Alan Moore,472331,Watchmen
+Fannie Flagg,9375,Fried Green Tomatoes at the Whistle Stop Cafe
+Jonas Jonasson,13486632,The Hundred-Year-Old Man Who Climbed Out of the Window and Disappeared
+Isabel Allende,9328,The House of the Spirits
+David Nicholls,6280118,One Day
+Kate Chopin,58345,The Awakening
+Neal Stephenson,830,Snow Crash
+Philip K. Dick,216363,The Man in the High Castle
+Alexander McCall Smith,7061,"The No. 1 Ladies' Detective Agency  (No. 1 Ladies' Detective Agency, #1)"
+Barbara Kingsolver,30868,"The Bean Trees (Greer Family, #1)"
+Rainbow Rowell,16068905,Fangirl
+Cassandra Clare,256683,"City of Bones (The Mortal Instruments, #1)"
+Nicole Krauss,3867,The History of Love
+Aravind Adiga,1768603,The White Tiger
+Michael Cunningham,11899,The Hours
+David Guterson,77142,Snow Falling on Cedars
+Laurie Halse Anderson,439288,Speak
+Terry Pratchett,34497,"The Color of Magic (Discworld, #1; Rincewind #1)"
+Thomas Harris,23807,"The Silence of the Lambs  (Hannibal Lecter, #2)"
+Colson Whitehead,30555488,The Underground Railroad
+Charles Frazier,10920,Cold Mountain
+Annie Proulx,7354,The Shipping News
+Christina Baker Kline,15818107,Orphan Train
+Jeffrey Eugenides,10964693,The Marriage Plot
+Philippa Gregory,37470,"The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)"
+Robert A. Heinlein,350,Stranger in a Strange Land
+R.J. Palacio,11387515,Wonder
+Tom Clancy,19691,"The Hunt for Red October (Jack Ryan Universe, #4)"
+Sherman Alexie,693208,The Absolutely True Diary of a Part-Time Indian
+J.K. Rowling,3950967,The Tales of Beedle the Bard
+Kate Morton,3407877,The Forgotten Garden
+Robert Ludlum,7869,"The Bourne Identity (Jason Bourne, #1)"
+Stephen King,10614,Misery
+Gillian Flynn,19288043,Gone Girl
+Tana French,237209,"In the Woods (Dublin Murder Squad, #1)"
+Janet Evanovich,6853,"One for the Money (Stephanie Plum, #1)"
+Agatha Christie,16343,"The Mysterious Affair at Styles (Hercule Poirot, #1)"
+Robert Galbraith,18214414,"The Silkworm (Cormoran Strike, #2)"
+Agatha Christie,16328,"The Murder of Roger Ackroyd (Hercule Poirot, #4)"
+Agatha Christie,16331,"Murder at the Vicarage (Miss Marple, #1)"
+Agatha Christie,131359,"Death on the Nile (Hercule Poirot, #17)"
+Laurie R. King,91661,"The Beekeeper's Apprentice (Mary Russell, #1)"
+Janet Evanovich,6427,"Two for the Dough (Stephanie Plum, #2)"
+Ellen Raskin,902,The Westing Game
+Sue Grafton,64863,"A is for Alibi (Kinsey Millhone, #1)"
+Agatha Christie,16322,"The A.B.C. Murders (Hercule Poirot, #13)"
+Robert Galbraith,25735012,"Career of Evil (Cormoran Strike, #3)"
+Elizabeth Peters,188230,Crocodile on the Sandbank (Amelia Peabody #1)
+Jacqueline Winspear,462033,"Maisie Dobbs (Maisie Dobbs, #1)"
+Janet Evanovich,6854,"Three to Get Deadly (Stephanie Plum, #3)"
+Arthur Conan Doyle,188572,The Complete Sherlock Holmes
+Janet Evanovich,6422,"Four to Score (Stephanie Plum, #4)"
+Agatha Christie,16319,"The Body in the Library (Miss Marple, #3)"
+E. Lockhart,16143347,We Were Liars
+J.D. Robb,479309,"Naked in Death (In Death, #1)"
+Janet Evanovich,6423,"High Five (Stephanie Plum, #5)"
+Janet Evanovich,6858,"Hot Six (Stephanie Plum, #6)"
+Jim Butcher,47212,"Storm Front (The Dresden Files, #1)"
+P.D. James,12875355,Death Comes to Pemberley
+Janet Evanovich,6424,"Seven Up (Stephanie Plum, #7)"
+Dashiell Hammett,29999,The Maltese Falcon
+Janet Evanovich,6425,"Hard Eight (Stephanie Plum, #8)"
+Alan Bradley,8517008,"A Red Herring Without Mustard (Flavia de Luce, #3)"
+Janet Evanovich,40331,"To the Nines (Stephanie Plum, #9)"
+Kathy Reichs,231604,"Déjà Dead (Temperance Brennan, #1)"
+Tana French,7093952,"Faithful Place (Dublin Murder Squad, #3)"
+Caleb Carr,40024,"The Alienist (Dr. Laszlo Kreizler, #1)"
+Louise Penny,352921,"A Fatal Grace (Chief Inspector Armand Gamache, #2)"
+James Patterson,13137,"1st to Die (Women's Murder Club, #1)"
+Carolyn Keene,32979,"The Secret of the Old Clock (Nancy Drew, #1)"
+Janet Evanovich,86663,"Ten Big Ones (Stephanie Plum, #10)"
+Janet Evanovich,11003,"Eleven on Top (Stephanie Plum, #11)"
+S.J. Watson,9736930,Before I Go to Sleep
+Agatha Christie,16298,"A Murder Is Announced (Miss Marple, #5)"
+Janet Evanovich,3507,"Twelve Sharp (Stephanie Plum, #12)"
+Patricia Cornwell,6534,"Postmortem (Kay Scarpetta, #1)"
+Charlaine Harris,301082,"Dead Until Dark (Sookie Stackhouse, #1)"
+Ruth Ware,2818723010,The Woman in Cabin 10
+Janet Evanovich,40317,"Lean Mean Thirteen (Stephanie Plum, #13)"
+Agatha Christie,140278,"4:50 from Paddington (Miss Marple, #8)"
+Alan Bradley,11277218,"I Am Half-Sick of Shadows (Flavia de Luce, #4)"
+Liane Moriarty,19486412,Big Little Lies
+Kate Atkinson,16243,Case Histories (Jackson Brodie #1)
+James Patterson,13145,"Along Came a Spider (Alex Cross, #1)"
+Dennis Lehane,21686,Shutter Island
+Janet Evanovich,2292384,"Fearless Fourteen (Stephanie Plum, #14)"
+Agatha Christie,639787,"The Murder on the Links (Hercule Poirot, #2)"
+Tana French,10805160,"Broken Harbour (Dublin Murder Squad, #4)"
+Janet Evanovich,6048530,"Finger Lickin' Fifteen (Stephanie Plum, #15)"
+Alan Bradley,13642963,"Speaking from Among the Bones (Flavia de Luce, #5)"
+Sue Grafton,64865,"B is for Burglar  (Kinsey Millhone, #2)"
+Tana French,1914973,"The Likeness (Dublin Murder Squad, #2)"
+Louise Penny,2277378,"The Cruelest Month (Chief Inspector Armand Gamache, #3)"
+Agatha Christie,16424,"Peril at End House (Hercule Poirot, #8)"
+Lee Child,78129,"Killing Floor (Jack Reacher, #1)"
+Rhys Bowen,383514,"Her Royal Spyness (Her Royal Spyness Mysteries, #1)"
+Marisha Pessl,18770398,Night Film
+Alan Bradley,17834904,"The Dead in Their Vaulted Arches (Flavia de Luce, #6)"
+Agatha Christie,16372,"The Mirror Crack'd from Side to Side (Miss Marple, #9)"
+Tana French,20821043,"The Secret Place (Dublin Murder Squad, #5)"
+Agatha Christie,16363,"Appointment with Death (Hercule Poirot, #19)"
+Agatha Christie,16360,"Murder in Mesopotamia (Hercule Poirot, #14)"
+Sue Grafton,89656,"C is for Corpse  (Kinsey Millhone, #3)"
+Agatha Christie,16335,"The Mystery of the Blue Train (Hercule Poirot, #6)"
+Janet Evanovich,11732634,"Smokin' Seventeen (Stephanie Plum, #17)"
+Agatha Christie,16307,"Hallowe'en Party (Hercule Poirot, #36)"
+Deanna Raybourn,267869,"Silent in the Grave (Lady Julia Grey, #1)"
+Agatha Christie,16341,"The Moving Finger (Miss Marple, #4)"
+Janet Evanovich,7023554,"Sizzling Sixteen (Stephanie Plum, #16)"
+Louise Penny,4201106,"A Rule Against Murder (Chief Inspector Armand Gamache, #4)"
+J.D. Robb,268601,"Glory in Death (In Death, #2)"
+Charlaine Harris,58077,"Grave Sight (Harper Connelly, #1)"
+Agatha Christie,81903,"Curtain (Hercule Poirot, #39)"
+Agatha Christie,834378,"A Pocket Full of Rye (Miss Marple, #7)"
+Agatha Christie,16342,"Cat Among the Pigeons (Hercule Poirot, #32)"
+Josephine Tey,77661,"The Daughter of Time (Inspector Alan Grant, #5)"
+Michael Connelly,32508,"The Black Echo (Harry Bosch, #1; Harry Bosch Universe, #1)"
+Louise Penny,16045144,"The Beautiful Mystery (Chief Inspector Armand Gamache, #8)"
+Agatha Christie,121648,"Five Little Pigs (Hercule Poirot, #24)"
+Agatha Christie,16300,"Sleeping Murder (Miss Marple, #13)"
+James Patterson,13148,"Kiss the Girls (Alex Cross, #2)"
+Agatha Christie,209194,The Man in the Brown Suit
+Charlaine Harris,140091,"Real Murders (Aurora Teagarden, #1)"
+Janet Evanovich,11746513,"Explosive Eighteen (Stephanie Plum, #18)"
+Alexander McCall Smith,7039,"Tears of the Giraffe (No. 1 Ladies' Detective Agency, #2)"
+Louise Penny,7945049,"Bury Your Dead (Chief Inspector Armand Gamache, #6)"
+Ariana Franklin,86643,"Mistress of the Art of Death (Mistress of the Art of Death, #1)"
+Charlaine Harris,110494,"Living Dead in Dallas (Sookie Stackhouse, #2)"
+Elizabeth  George,31374,"A Great Deliverance (Inspector Lynley, #1)"
+Joanne Fluke,33443,"Chocolate Chip Cookie Murder (Hannah Swensen, #1)"
+Agatha Christie,16326,"Death in the Clouds (Hercule Poirot, #12)"
+Jacqueline Winspear,83083,"Birds of a Feather (Maisie Dobbs, #2)"
+Jim Butcher,91477,"Fool Moon (The Dresden Files, #2)"
+Agatha Christie,31300,"A Caribbean Mystery (Miss Marple, #10)"
+Agatha Christie,16333,"At Bertram's Hotel (Miss Marple, #11)"
+Jeff Lindsay,17231,"Darkly Dreaming Dexter (Dexter, #1)"
+Louise Penny,17167084,"How the Light Gets In (Chief Inspector Armand Gamache, #9)"
+Alan Bradley,6218281,"The Sweetness at the Bottom of the Pie (Flavia de Luce, #1)"
+Sue Grafton,64860,"E is for Evidence (Kinsey Millhone, #5)"
+Carolyn Keene,233637,The Hidden Staircase (Nancy Drew #2)
+Agatha Christie,215492,"Lord Edgware Dies (Hercule Poirot, #9)"
+William Landay,11367726,Defending Jacob
+Patricia Cornwell,132336,"Body of Evidence (Kay Scarpetta, #2)"
+Dorothy L. Sayers,192888,"Clouds of Witness (Lord Peter Wimsey, #2)"
+J.D. Robb,238126,"Immortal in Death (In Death, #3)"
+Agatha Christie,31304,"Nemesis (Miss Marple, #12)"
+Louise Penny,10680329,"A Trick of the Light (Chief Inspector Armand Gamache, #7)"
+Laurie R. King,93938,"A Letter of Mary (Mary Russell, #3)"
+Sue Grafton,257990,"G is for Gumshoe (Kinsey Millhone, #7)"
+Anthony Horowitz,11093329,"The House of Silk (Sherlock Holmes, #1)"
+Tess Gerritsen,32263,"The Surgeon (Rizzoli & Isles, #1)"
+Sue Grafton,169211,"F is for Fugitive (Kinsey Millhone, #6)"
+Trenton Lee Stewart,83369,"The Mysterious Benedict Society (The Mysterious Benedict Society, #1)"
+Michael Connelly,79885,"The Lincoln Lawyer (Mickey Haller, #1; Harry Bosch Universe, #16)"
+Sara Shepard,162085,"Pretty Little Liars (Pretty Little Liars, #1)"
+Dennis Lehane,21671,Mystic River
+Janet Evanovich,6420,"Visions of Sugar Plums (Stephanie Plum, #8.5)"
+Josh Lanyon,1274861,"Fatal Shadows (The Adrien English Mysteries, #1)"
+Henning Mankell,935308,"Faceless Killers (Kurt Wallander, #1)"
+Agatha Christie,148584,"Elephants Can Remember (Hercule Poirot, #37)"
+Agatha Christie,527744,"After the Funeral (Hercule Poirot, #29)"
+P.D. James,3832,Cover Her Face (Adam Dalgliesh #1)
+Stephen King,13596166,Joyland
+Sue Grafton,102525,"H is for Homicide (Kinsey Millhone, #8)"
+Agatha Christie,16315,Crooked House
+Janet Evanovich,14740588,"Notorious Nineteen (Stephanie Plum, #19)"
+Sue Grafton,643974,"I is for Innocent (Kinsey Millhone, #9)"
+Charlaine Harris,140082,"Club Dead (Sookie Stackhouse, #3)"
+Agatha Christie,68930,"They Do It with Mirrors (Miss Marple, #6)"
+Agatha Christie,477597,"Poirot Investigates (Hercule Poirot, #3)"
+Dorothy L. Sayers,351559,"Murder Must Advertise  (Lord Peter Wimsey, #10)"
+Dashiell Hammett,80616,The Thin Man
+Agatha Christie,433035,"Sad Cypress (Hercule Poirot, #21)"
+John Grisham,32499,The Pelican Brief
+Brittany Cavallaro,23272028,"A Study in Charlotte (Charlotte Holmes, #1)"
+Patricia Cornwell,6539,"The Body Farm (Kay Scarpetta, #5)"
+Agatha Christie,388018,"The Clocks (Hercule Poirot, #34)"
+Dorothy L. Sayers,192892,"Unnatural Death (Lord Peter Wimsey, #3)"
+Lilian Jackson Braun,508903,"The Cat Who Could Read Backwards (Cat Who..., #1)"
+James Patterson,13136,"2nd Chance (Women's Murder Club, #2)"
+Sue Grafton,89165,"J is for Judgment (Kinsey Millhone, #10)"
+Sue Grafton,380975,"K is for Killer (Kinsey Millhone, #11)"
+Elizabeth Peters,66534,"The Mummy Case (Amelia Peabody, #3)"
+Charlaine Harris,140077,"Dead to the World (Sookie Stackhouse, #4)"
+Sue Grafton,64854,"M is for Malice (Kinsey Millhone, #13)"
+Charlaine Harris,45020,"Shakespeare's Landlord (Lily Bard, #1)"
+Tasha Alexander,288159,"And Only to Deceive (Lady Emily, #1)"
+Kathy Reichs,128756,"Death du Jour (Temperance Brennan, #2)"
+Louise Penny,338691,"Still Life (Chief Inspector Armand Gamache, #1)"
+Charlaine Harris,140078,"Grave Surprise (Harper Connelly, #2)"
+Kimberly McCreight,15776309,Reconstructing Amelia
+Jussi Adler-Olsen,10822858,"The Keeper of Lost Causes (Department Q, #1)"
+J.D. Robb,201175,"Rapture in Death (In Death, #4)"
+Jacqueline Winspear,7432,"Pardonable Lies (Maisie Dobbs, #3)"
+Agatha Christie,31309,"The Thirteen Problems (Miss Marple, #2)"
+William Ritter,20312462,"Jackaby (Jackaby, #1)"
+Alexander McCall Smith,7035,"Morality for Beautiful Girls (No. 1 Ladies' Detective Agency, #3)"
+Arthur Conan Doyle,736131,The Valley of Fear
+Charlaine Harris,170210,"Dead as a Doornail (Sookie Stackhouse, #5)"
+Tana French,29430013,The Trespasser (Dublin Murder Squad #6)
+Laurie R. King,184059,"The Moor (Mary Russell, #4)"
+Craig Johnson,109901,"The Cold Dish (Walt Longmire, #1)"
+John Berendt,386187,Midnight in the Garden of Good and Evil
+Janet Evanovich,6419,"Plum Lovin' (Stephanie Plum, #12.5)"
+Sue Grafton,643962,"L is for Lawless (Kinsey Millhone, #12)"
+Libba Bray,7728889,"The Diviners (The Diviners, #1)"
+Maureen Johnson,13595639,"The Name of the Star (Shades of London, #1)"
+Charlaine Harris,140097,"An Ice Cold Grave (Harper Connelly, #3)"
+Jeffery Deaver,2373,"The Bone Collector (Lincoln Rhyme, #1)"
+Patricia Cornwell,232123,"All That Remains (Kay Scarpetta, #3)"
+J.D. Robb,74036,"Ceremony in Death (In Death, #5)"
+Agatha Christie,16332,"Third Girl (Hercule Poirot, #35)"
+Sue Grafton,6193821,"U Is for Undertow (Kinsey Millhone, #21)"
+James Patterson,13132,"3rd Degree (Women's Murder Club, #3)"
+Agatha Christie,16312,"One, Two, Buckle My Shoe (Hercule Poirot, #22)"
+Charlaine Harris,140079,"Definitely Dead (Sookie Stackhouse, #6)"
+Jim Butcher,91476,"Grave Peril (The Dresden Files, #3)"
+Sue Grafton,64862,"R is for Ricochet (Kinsey Millhone, #18)"
+Sue Grafton,64864,"N is for Noose (Kinsey Millhone, #14)"
+Janet Evanovich,17908462,"Takedown Twenty (Stephanie Plum, #20)"
+Dorothy L. Sayers,246231,"Have His Carcase  (Lord Peter Wimsey, #8)"
+Agatha Christie,16303,"The Hollow (Hercule Poirot, #25)"
+Jo Nesbø,9572203,"The Snowman (Harry Hole, #7)"
+Agatha Christie,140360,"Three Act Tragedy (Hercule Poirot, #11)"
+Agatha Christie,16329,"Dead Man's Folly (Hercule Poirot, #31)"
+Elizabeth Peters,40495,"Lion in the Valley  (Amelia Peabody, #4)"
+Laurie R. King,77259,"O Jerusalem (Mary Russell, #5)"
+Ruth Ware,23346377,"In a Dark, Dark Wood"
+Jo Nesbø,1991039,"Flaggermusmannen (Harry Hole, #1)"
+Harlan Coben,43933,Tell No One
+Agatha Christie,121622,"Mrs. McGinty's Dead (Hercule Poirot, #28)"
+Charlaine Harris,140075,"All Together Dead (Sookie Stackhouse, #7)"
+Matthew Pearl,18402,The Dante Club
+Sue Grafton,262229,"Q is for Quarry (Kinsey Millhone, #17)"
+Agatha Christie,102313,"N or M? (Tommy and Tuppence, #3)"
+John Grisham,5359,The Client
+Sue Grafton,410445,"T is for Trespass (Kinsey Millhone, #20)"
+Sue Grafton,262228,"O is for Outlaw (Kinsey Millhone, #15)"
+Sue Grafton,142079,"S is for Silence (Kinsey Millhone, #19)"
+Janet Evanovich,1434105,"Plum Lucky (Stephanie Plum, #13.5)"
+Elly Griffiths,6688087,"The Crossing Places (Ruth Galloway, #1)"
+J.D. Robb,132778,"Vengeance in Death (In Death, #6)"
+Charlaine Harris,140093,"A Bone to Pick (Aurora Teagarden, #2)"
+Jacqueline Winspear,7433,"Messenger of Truth (Maisie Dobbs, #4)"
+Alexander McCall Smith,7036,"The Kalahari Typing School for Men (No. 1 Ladies' Detective Agency, #4)"
+Dorothy L. Sayers,192887,"The Unpleasantness at the Bellona Club (Lord Peter Wimsey, #5)"
+Meg Cabot,23220,"Size 12 Is Not Fat (Heather Wells, #1)"
+Blue Balliett,444347,"Chasing Vermeer (Chasing Vermeer, #1)"
+Barry Lyga,7766027,"I Hunt Killers (Jasper Dent, #1)"
+Sue Grafton,380976,"P is for Peril (Kinsey Millhone, #16)"
+Mary Kubica,18812405,The Good Girl
+Liane Moriarty,17802724,The Husband's Secret
+Louise Penny,24586590,The Nature of the Beast (Chief Inspector Armand Gamache #11)
+Sue Grafton,10852027,"V is for Vengeance (Kinsey Millhone, #22)"
+Kathy Reichs,128754,"Deadly Decisions (Temperance Brennan, #3)"
+Patricia Cornwell,85379,"Cruel & Unusual (Kay Scarpetta, #4)"
+Deanna Raybourn,1943742,"Silent in the Sanctuary (Lady Julia Grey, #2)"
+J.D. Robb,172691,"Conspiracy in Death (In Death, #8)"
+Thomas Harris,28877,"Red Dragon (Hannibal Lecter, #1)"
+Sue Grafton,17707605,"W is for Wasted (Kinsey Millhone, #23)"
+Richard Castle,7776678,"Naked Heat (Nikki Heat, #2)"
+Agatha Christie,483103,"The Seven Dials Mystery (Superintendent Battle, #2)"
+Tony Hillerman,867387,"The Blessing Way (Leaphorn & Chee, #1)"
+Rob Thomas,21437200,"Mr. Kiss and Tell (Veronica Mars, #2)"
+Paula Hawkins,33151805,Into the Water
+Charlaine Harris,2233407,"From Dead to Worse (Sookie Stackhouse, #8)"
+Alan Bradley,26194013,"Thrice the Brinded Cat Hath Mew'd (Flavia de Luce, #8)"
+Deanna Raybourn,28186322,"A Curious Beginning (Veronica Speedwell, #1)"
+Michelle Hodkin,11408650,"The Unbecoming of Mara Dyer (Mara Dyer, #1)"
+Ben H. Winters,13330370,"The Last Policeman (The Last Policeman, #1)"
+J.D. Robb,238125,"Holiday in Death (In Death, #7)"
+Charlaine Harris,5161066,"Dead and Gone (Sookie Stackhouse, #9)"
+Laurie R. King,274400,"Justice Hall (Mary Russell, #6)"
+Donna Leon,68099,"Death at La Fenice (Commissario Brunetti, #1)"
+Rick Riordan,2921082,"The Maze of Bones  (The 39 Clues, #1)"
+Spencer Quinn,5600151,Dog on It (A Chet and Bernie Mystery #1)
+Philip Pullman,114982,"The Ruby in the Smoke (Sally Lockhart, #1)"
+James Patterson,33668,"4th of July (Women's Murder Club, #4)"
+Kathy Reichs,128759,"Fatal Voyage (Temperance Brennan, #4)"
+Jim Butcher,91478,"Summer Knight (The Dresden Files, #4)"
+M.C. Beaton,139176,"The Quiche of Death (Agatha Raisin, #1)"
+Charles Todd,6093438,"A Duty To The Dead (Bess Crawford, #1)"
+Louise Penny,28220985,"A Great Reckoning (Chief Inspector Armand Gamache, #12)"
+Noah Hawley,26245850,Before the Fall
+Charlaine Harris,6344832,"Grave Secret (Harper Connelly, #4)"
+Patricia Cornwell,6541,"Cause of Death (Kay Scarpetta, #7)"
+Jo Nesbø,465226,"The Redbreast (Harry Hole, #3)"
+Jacqueline Winspear,1468706,"An Incomplete Revenge (Maisie Dobbs, #5)"
+Markus Zusak,19057,I Am the Messenger
+Agatha Christie,16325,Partners in Crime (Tommy and Tuppence #2)
+Agatha Christie,16425,"The Labours of Hercules (Hercule Poirot, #26)"
+Agatha Christie,212622,"Sparkling Cyanide  (Colonel Race, #4)"
+Charles Finch,1044816,"A Beautiful Blue Death (Charles Lenox Mysteries, #1)"
+Laurie R. King,93940,"Locked Rooms (Mary Russell, #8)"
+Charlaine Harris,32510,"Shakespeare's Champion (Lily Bard, #2)"
+Laurie R. King,5226845,"The Language of Bees (Mary Russell, #9)"
+Michael Connelly,24244,"The Black Ice (Harry Bosch, #2; Harry Bosch Universe, #2)"
+China Miéville,4703581,The City & the City
+Blake Crouch,27833670,Dark Matter
+Caroline Kepnes,20821614,"You (You, #1)"
+B.A. Paris,29437949,Behind Closed Doors
+Douglas Preston,67035,"Relic (Pendergast, #1)"
+Tom Clancy,32682,"Patriot Games (Jack Ryan Universe, #2)"
+Michael Crichton,7672,Congo
+Thomas Harris,32418,"Hannibal (Hannibal Lecter, #3)"
+Robert Ludlum,15769,"The Bourne Supremacy (Jason Bourne, #2)"
+Michael Crichton,83763,Prey
+Michael Crichton,7669,Timeline
+Andy Weir,18007564,The Martian
+Michael Crichton,7670,The Andromeda Strain
+Lee Child,220970,"Tripwire  (Jack Reacher, #3)"
+Michael Crichton,8650,The Lost World
+Stephen King,18775247,"Mr. Mercedes (Bill Hodges Trilogy, #1)"
+Karin Slaughter,25574782,Pretty Girls
+Blake Crouch,15096164,"Pines (Wayward Pines, #1)"
+John Grisham,24192,The Runaway Jury
+Michael Crichton,455373,Sphere
+Lee Child,697776961,"61 Hours (Jack Reacher, #14)"
+Ian Fleming,3758,"Casino Royale (James Bond, #1)"
+Lee Child,220968,"One Shot (Jack Reacher, #9)"
+Suzanne Collins,6148028,"Catching Fire (The Hunger Games, #2)"
+Michael Crichton,15860,State of Fear
+Michael Crichton,7667,Airframe
+Robert Ludlum,31259,"The Bourne Ultimatum (Jason Bourne, #3)"
+Dean Koontz,14995,"Odd Thomas (Odd Thomas, #1)"
+Lee Child,21745,"Without Fail (Jack Reacher, #6)"
+John le Carré,19494,The Spy Who Came In from the Cold
+Ken Follett,92364,Eye of the Needle
+Stephen King,6320534,Under the Dome
+Tom Clancy,34993,"The Sum of All Fears (Jack Ryan Universe, #7)"
+Lee Child,4494917,"Gone Tomorrow (Jack Reacher, #13)"
+Lee Child,455941,"Persuader (Jack Reacher, #7)"
+Lee Child,455930,"Echo Burning (Jack Reacher, #5)"
+Lee Child,108942,"Bad Luck and Trouble (Jack Reacher, #11)"
+John le Carré,10073506,"Tinker, Tailor, Soldier, Spy"
+Tom Clancy,19668,"Without Remorse (Jack Ryan Universe, #1)"
+Tom Clancy,318525,Red Storm Rising
+Lee Child,10428708,"The Affair (Jack Reacher, #16)"
+Lee Child,231562,"The Enemy (Jack Reacher, #8)"
+Elizabeth Haynes,15818362,Into the Darkest Corner
+Douglas Preston,39031,"The Cabinet of Curiosities (Pendergast, #3)"
+Tom Clancy,382549,"The Cardinal of the Kremlin (Jack Ryan Universe, #5)"
+Peter  Swanson,21936809,The Kind Worth Killing
+Lee Child,2211221,"Nothing to Lose (Jack Reacher, #12)"
+Douglas Preston,39030,"Reliquary (Pendergast, #2)"
+James Rollins,183822,"Sandstorm (Sigma Force, #1)"
+Vince Flynn,7959473,"American Assassin (Mitch Rapp, #1)"
+John Grisham,5349,The Rainmaker
+Clare Mackintosh,23125266,I Let You Go
+Lauren Beukes,16131077,The Shining Girls
+James Rollins,92147,"Map of Bones (Sigma Force, #2)"
+Tom Clancy,5720,"Rainbow Six (Jack Ryan Universe, #10)"
+David Baldacci,15158,"The Camel Club (Camel Club, #1)"
+Dot Hutchison,29981261,The Butterfly Garden (The Collector #1)
+Tom Clancy,19670,"Debt of Honor (Jack Ryan Universe, #8)"
+Josh Malerman,18498558,Bird Box
+Steve Berry,75024,"The Templar Legacy (Cotton Malone, #1)"
+Tom Clancy,19675,"Executive Orders (Jack Ryan Universe, #9)"
+Stephen King,16130549,"Doctor Sleep (The Shining, #2)"
+Karin Slaughter,21718,"Blindsighted (Grant County, #1)"
+Cormac McCarthy,12497,No Country for Old Men
+Stephen King,33124137,Pet Sematary
+M.R. Carey,17235026,The Girl with All the Gifts
+Dean Koontz,32423,Watchers
+Stephen King,11573,The Dead Zone
+Michael Crichton,7668,Rising Sun
+Stephen King,11566,The Green Mile
+Michael Crichton,7661,Next
+Lee Child,220969,"Die Trying (Jack Reacher, #2)"
+David Baldacci,15159,Absolute Power
+David Baldacci,11007587,"Zero Day (John Puller, #1)"
+Chelsea Cain,657034,"Heartsick (Archie Sheridan & Gretchen Lowell, #1)"
+Stephen King,25526965,"End of Watch (Bill Hodges Trilogy, #3)"
+Dean Koontz,32421,Velocity
+John Grisham,5355,The Chamber
+Stephen King,233667,Firestarter
+Stephen King,11590,'Salem's Lot
+Peter Benchley,126232,Jaws
+John Grisham,5350,The Partner
+Chevy Stevens,7159515,Still Missing
+Jeff Lindsay,136081,"Dearly Devoted Dexter (Dexter, #2)"
+Vince Flynn,184655,"Transfer of Power (Mitch Rapp, #3)"
+Lee Child,20263040,"Personal (Jack Reacher, #19)"
+John Grisham,1110,The Broker
+Neal Stephenson,10552338,Reamde
+Daniel Silva,93794,"The Kill Artist (Gabriel Allon, #1)"
+Douglas Preston,30068,"The Book of the Dead (Pendergast, #7; Diogenes, #3)"
+Lars Kepler,9835731,"The Hypnotist (Joona Linna, #1)"
+John Grisham,452235,The Firm
+Michael Crichton,7675,Disclosure
+Sarah Pinborough,28965131,Behind Her Eyes
+Joe Hill,1572953942,NOS4A2
+James Rollins,294042,"Black Order (Sigma Force, #3)"
+Megan Miranda,23212667,All the Missing Girls
+Riley Sager,32796253,Final Girls
+Karin Slaughter,21717,"Triptych (Will Trent, #1)"
+J.P. Delaney,28016509,The Girl Before
+Stephenie Meyer,32940867,The Chemist
+Tess Gerritsen,715834,"The Apprentice (Rizzoli & Isles, #2)"
+John Grisham,5351,The Street Lawyer
+John Grisham,5354,The Brethren
+A.S.A. Harrison,16171291,The Silent Wife
+Douglas Preston,39028,"The Wheel of Darkness (Pendergast, #8)"
+Lee Child,23664710,"Make Me (Jack Reacher, #20)"
+David Baldacci,15791154,"The Hit (Will Robie, #2)"
+Harlan Coben,43931,The Woods
+Stephen King,10603,Cujo
+Harlan Coben,15811568,Six Years
+Koushun Takami,57891,Battle Royale
+James Rollins,294046,"The Judas Strain (Sigma Force, #4)"
+James Patterson,13140,"Jack & Jill (Alex Cross, #3)"
+Frederick Forsyth,149572,The Odessa File
+Dan Wells,7617119,"I Am Not A Serial Killer (John Cleaver, #1)"
+Gillian Flynn,26025580,The Grownup
+David Baldacci,23153154,"Memory Man (Amos Decker, #1)"
+Douglas Preston,7122034,"Fever Dream (Pendergast, #10)"
+Tess Gerritsen,32258,"Body Double (Rizzoli & Isles, #4)"
+S.K. Tremayne,23553419,The Ice Twins
+Raymond Khoury,46438,"The Last Templar (Templar, #1)"
+Dean Koontz,16433,"Forever Odd (Odd Thomas, #2)"
+Abigail Haas,16074758,Dangerous Girls
+Tom Clancy,19707,"Red Rabbit (Jack Ryan Universe, #3)"
+Max Barry,16158596,Lexicon
+Harlan Coben,26109394,Fool Me Once
+Matthew Reilly,144790,"Ice Station (Shane Schofield, #1)"
+Robin Cook,20454107,Coma
+Tom Clancy,19687,"The Bear and the Dragon (Jack Ryan Universe, #11)"
+Joe Hill,6587879,Horns
+James Patterson,21436,"Cat and Mouse (Alex Cross, #4)"
+Tess Gerritsen,32257,"The Sinner (Rizzoli & Isles, #3)"
+Tess Gerritsen,32255,"Vanish (Rizzoli & Isles, #5)"
+Stephen King,7278752,Dolores Claiborne
+Ian Fleming,3763,"Live and Let Die (James Bond, #2)"
+Michael Connelly,32506,"The Poet (Jack McEvoy, #1; Harry Bosch Universe, #5)"
+Stephen King,39662,Different Seasons
+Stephen King,10567,Cell
+Clare Mackintosh,26233572,I See You
+David Baldacci,15842230,"The Forgotten (John Puller, #2)"
+Steve Berry,74824,"The Alexandria Link (Cotton Malone, #2)"
+Harlan Coben,6681454,Caught
+Stephen King,10629,Christine
+Joe Hill,153025,Heart-Shaped Box
+James Rollins,294047,Amazonia
+Rosamund Lupton,8196732,Sister
+Dean Koontz,16429,The Husband
+Douglas Preston,2197227,"Cemetery Dance (Pendergast, #9)"
+Tess Gerritsen,32254,"The Mephisto Club (Rizzoli & Isles, #6)"
+John Grisham,5346,The Last Juror
+Vince Flynn,184661,"The Third Option (Mitch Rapp, #4)"
+Jeff Lindsay,206682,"Dexter in the Dark (Dexter, #3)"
+Ian Caldwell,18431,The Rule of Four
+Dean Koontz,14996,"Brother Odd (Odd Thomas, #3)"
+Stephen King,32692,Gerald's Game
+John Grisham,5356,The King of Torts
+Stephen King,10589,Bag of Bones
+Dean Koontz,32441,The Good Guy
+Douglas Preston,136636,Thunderhead
+Patricia Highsmith,2247142,"The Talented Mr. Ripley (Ripley, #1)"
+Stephen King,107291,Needful Things
+Douglas Preston,9489502,"Cold Vengeance (Pendergast, #11)"
+Robert   Harris,56842,Fatherland
+Ian Fleming,3764,"From Russia With Love (James Bond, #5)"
+Harlan Coben,22571540,The Stranger
+Ken Follett,92367,Whiteout
+A.R. Torre,206403186,"The Girl in 6E (Deanna Madden, #1)"
+Richard Bachman,9014,The Long Walk
+Vince Flynn,154424,"Consent to Kill (Mitch Rapp, #8)"
+David Baldacci,15154,"The Collectors (Camel Club, #2)"
+David Baldacci,113138,The Winner
+Linwood Barclay,1225261,No Time for Goodbye (No Time For Goodbye #1)
+Scott Turow,425029,Presumed Innocent
+Lee Child,383028,"The Hard Way (Jack Reacher, #10)"
+Dean Koontz,32439,Intensity
+Vince Flynn,937249,"Separation of Power (Mitch Rapp, #5)"
+James Patterson,79378,"Roses are Red (Alex Cross, #6)"
+Steve Berry,75020,The Romanov Prophecy
+Simon Beckett,46465,"The Chemistry of Death (David Hunter, #1)"
+John Buchan,153492,"The 39 Steps (Richard Hannay, #1)"
+Dean Koontz,32424,Lightning
+Neal Shusterman,764347,"Unwind (Unwind, #1)"
+David Baldacci,5509321,"First Family (Sean King & Michelle Maxwell, #4)"
+James Rollins,7202829,"The Devil Colony (Sigma Force, #7)"
+Steve Berry,5369,The Amber Room
+John Grisham,5352,The Summons
+John Grisham,3613997,The Associate
+Julia Heaberlin,23746004,Black-Eyed Susans
+John Connolly,175242,"Every Dead Thing (Charlie Parker, #1)"
+David Baldacci,85306,"Hour Game (Sean King & Michelle Maxwell, #2)"
+John Sandford,37301,"Rules of Prey (Lucas Davenport, #1)"
+David Baldacci,627984,"Stone Cold (Camel Club, #3)"
+Vince Flynn,184657,"Memorial Day (Mitch Rapp, #7)"
+M.J. Arlidge,23398806,"Eeny Meeny (Helen Grace, #1)"
+Steve Berry,1178039,"The Venetian Betrayal (Cotton Malone, #3)"
+Vince Flynn,26722,"Act of Treason (Mitch Rapp, #9)"
+Mo Hayder,130260,"Birdman (Jack Caffery, #1)"
+Richard Bachman,11607,The Running Man
+Megan Abbott,25251757,You Will Know Me
+Karin Slaughter,2199587,"Fractured (Will Trent, #2)"
+Natsuo Kirino,25365,Out
+Lee Child,28077464,Night School
+Tess Gerritsen,2653622,"The Keepsake (Rizzoli & Isles, #7)"
+Camilla Läckberg,7058405,"The Ice Princess (Patrik Hedström, #1)"
+Daniel Silva,93795,"The English Assassin (Gabriel Allon, #2)"
+Jeffery Deaver,227729,"The Coffin Dancer (Lincoln Rhyme, #2)"
+James Patterson,79379,"Violets Are Blue (Alex Cross, #7)"
+Rebecca Skloot,6493208,The Immortal Life of Henrietta Lacks
+Tina Fey,9418327,Bossypants
+Jon Krakauer,1845,Into the Wild
+Malcolm Gladwell,2612,The Tipping Point: How Little Things Can Make a Big Difference
+Malcolm Gladwell,40102,Blink: The Power of Thinking Without Thinking
+Laura Hillenbrand,8664353,"Unbroken: A World War II Story of Survival, Resilience, and Redemption"
+Mary Roach,32145,Stiff: The Curious Lives of Human Cadavers
+Cheryl Strayed,12262741,Wild: From Lost to Found on the Pacific Crest Trail
+Jeannette Walls,7445,The Glass Castle
+Elizabeth Gilbert,19501,"Eat, Pray, Love"
+Amy Poehler,20910157,Yes Please
+Bill Bryson,9791,A Walk in the Woods
+Michael Pollan,3109,The Omnivore's Dilemma: A Natural History of Four Meals
+Mindy Kaling,10335308,Is Everyone Hanging Out Without Me? (And Other Concerns)
+Stephen King,10569,On Writing: A Memoir of the Craft
+Richard Dawkins,14743,The God Delusion
+Stephen Hawking,3869,A Brief History of Time
+Marie Kond?,22318578,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing
+Malala Yousafzai,17851885,I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban
+Greg Mortenson,49436,Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time
+Eric Schlosser,1097,Fast Food Nation: The Dark Side of the All-American Meal
+David Sedaris,4137,Me Talk Pretty One Day
+Jon Krakauer,10847,Under the Banner of Heaven: A Story of Violent Faith
+Mitch Albom,6900,Tuesdays with Morrie
+Oliver Sacks,63697,The Man Who Mistook His Wife for a Hat and Other Clinical Tales
+Aziz Ansari,23453112,Modern Romance
+Jon Ronson,12391521,The Psychopath Test: A Journey Through the Madness Industry
+Viktor E. Frankl,4069,Man's Search for Meaning
+Lynne Truss,8600,"Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation"
+Sun Tzu,10534,The Art of War
+Steven D. Levitt,1202,"Freakonomics: A Rogue Economist Explores the Hidden Side of Everything (Freakonomics, #1)"
+Randall Munroe,21413662,What If?: Serious Scientific Answers to Absurd Hypothetical Questions
+Frank McCourt,252577,"Angela's Ashes (Frank McCourt, #1)"
+Paul Kalanithi,25899336,When Breath Becomes Air
+Michael Pollan,315425,In Defense of Food: An Eater's Manifesto
+Katherine Boo,11869272,"Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity"
+Roxane Gay,18813642,Bad Feminist
+Howard Zinn,2767,A People's History of the United States
+Piper Kerman,6314763,Orange Is the New Black
+Anthony Bourdain,33313,Kitchen Confidential: Adventures in the Culinary Underbelly
+Caitlin Moran,10600242,How to Be a Woman
+Walter Isaacson,11084145,Steve Jobs
+Jenny  Lawson,12868761,Let's Pretend This Never Happened: A Mostly True Memoir
+Dale Carnegie,4865,How to Win Friends and Influence People
+Barbara Demick,6178648,Nothing to Envy: Ordinary Lives in North Korea
+Niccolò Machiavelli,28862,The Prince
+Christopher McDougall,6289283,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen"
+J.D. Vance,27161156,Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
+Yuval Noah Harari,23692271,Sapiens: A Brief History of Humankind
+Malcolm Gladwell,3228917,Outliers: The Story of Success
+Sheryl Sandberg,16071764,"Lean In: Women, Work, and the Will to Lead"
+Bill Bryson,7507825,At Home: A Short History of Private Life
+Mary Roach,2082136,Bonk: The Curious Coupling of Science and Sex
+Daniel James Brown,16158542,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+Richard Dawkins,61535,The Selfish Gene
+Siddhartha Mukherjee,7170627,The Emperor of All Maladies: A Biography of Cancer
+Malcolm Gladwell,15751404,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants"
+John Grogan,12691,Marley and Me: Life and Love With the World's Worst Dog
+Stephen R. Covey,36072,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+Atul Gawande,20696006,Being Mortal: Medicine and What Matters in the End
+Jonathan Safran Foer,6604712,Eating Animals
+Mary Roach,7237456,Packing for Mars: The Curious Science of Life in the Void
+Erik Larson,21996,"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America"
+David Grann,3398625,The Lost City of Z: A Tale of Deadly Obsession in the Amazon
+Mindy Kaling,30268522,Why Not Me?
+Allie Brosh,17571564,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened"
+Christopher Hitchens,43369,god is Not Great: How Religion Poisons Everything
+Augusten Burroughs,242006,Running with Scissors
+Susannah Cahalan,13547180,Brain on Fire: My Month of Madness
+Anne Lamott,12543,Bird by Bird: Some Instructions on Writing and Life
+Bill Bryson,28,Notes from a Small Island
+Bill Bryson,24,In a Sunburned Country
+Karl Marx,30474,The Communist Manifesto
+David McCullough,1067,1776
+Malcolm Gladwell,6516450,What the Dog Saw and Other Adventures
+Joan Didion,7815,The Year of Magical Thinking
+Bill Bryson,21,A Short History of Nearly Everything
+Mary Roach,13615414,Gulp: Adventures on the Alimentary Canal
+Felicia Day,23705512,You're Never Weird on the Internet (Almost)
+Richard   Preston,16213,The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus
+Vincent Bugliosi,105992,Helter Skelter: The True Story of the Manson Murders
+Michael   Lewis,26889576,The Big Short: Inside the Doomsday Machine
+Charles Darwin,22463,The Origin of Species
+Ishmael Beah,43015,A Long Way Gone: Memoirs of a Boy Soldier
+Ta-Nehisi Coates,25489625,Between the World and Me
+Corrie ten Boom,561909,The Hiding Place: The Triumphant True Story of Corrie Ten Boom
+Jon Ronson,22571552,So You've Been Publicly Shamed
+A.J. Jacobs,495395,The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible
+Rebecca Solnit,18528190,Men Explain Things to Me
+David Sedaris,10176,Dress Your Family in Corduroy and Denim
+Patti Smith,341879,Just Kids
+Laura Hillenbrand,110737,Seabiscuit: An American Legend
+Henry David Thoreau,16902,Walden
+David Sedaris,1044355,When You Are Engulfed in Flames
+Nathaniel Philbrick,17780,In the Heart of the Sea: The Tragedy of the Whaleship Essex
+Carl Sagan,55030,Cosmos
+Haruki Murakami,2195464,What I Talk About When I Talk About Running
+Mark Kurlansky,2715,Salt: A World History
+Margot Lee Shetterly,25953369,Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race
+Trevor Noah,29780253,Born a Crime: Stories From a South African Childhood
+Doris Kearns Goodwin,2199,Team of Rivals: The Political Genius of Abraham Lincoln
+Michelle Alexander,6792458,The New Jim Crow: Mass Incarceration in the Age of Colorblindness
+Gary Chapman,238786885,The 5 Love Languages: The Secret to Love that Lasts
+Sam Kean,7247854,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements"
+Thomas L. Friedman,1911,The World Is Flat: A Brief History of the Twenty-first Century
+David McCullough,2203,John Adams
+Alan Weisman,248787,The World Without Us
+Mary Roach,14990,Spook: Science Tackles the Afterlife
+Brené Brown,13588356,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead"
+Lawrence Wright,16142053,"Going Clear: Scientology, Hollywood, and the Prison of Belief"
+David Sedaris,4138,Naked
+Barack Obama,9742,The Audacity of Hope: Thoughts on Reclaiming the American Dream
+Nicholas D. Kristof,6260997,Half the Sky: Turning Oppression into Opportunity for Women Worldwide
+Michael Pollan,13839,The Botany of Desire: A Plant's-Eye View of the World
+Marjane Satrapi,9516,"Persepolis: The Story of a Childhood (Persepolis, #1)"
+Jared Diamond,1842,"Guns, Germs, and Steel: The Fates of Human Societies"
+Spencer Johnson,4894,Who Moved My Cheese?
+Helen Macdonald,18803640,H is for Hawk
+Jon Krakauer,24911006,Missoula: Rape and the Justice System in a College Town
+Anne Fadiman,12609,"The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures"
+Gretchen Rubin,6398634,"The Happiness Project: Or Why I Spent a Year Trying to Sing in the Morning, Clean My Closets, Fight Right, Read Aristotle, and Generally Have More Fun"
+Blaine Harden,1179736514,Escape from Camp 14: One Man's Remarkable Odyssey from North Korea to Freedom in the West
+Vicki Myron,3257136,Dewey: The Small-Town Library Cat Who Touched the World
+Nassim Nicholas Taleb,242472,The Black Swan: The Impact of the Highly Improbable
+Charles C. Mann,39020,1491: New Revelations of the Americas Before Columbus
+Caitlin Doughty,25189315,Smoke Gets in Your Eyes: And Other Lessons from the Crematory
+Jon Krakauer,1898,Into Thin Air: A Personal Account of the Mount Everest Disaster
+Bryan Stevenson,20342617,Just Mercy: A Story of Justice and Redemption
+Justin Halpern,7821447,Sh*t My Dad Says
+Julie Powell,13747,"Julie and Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen: How One Girl Risked Her Marriage, Her Job, and Her Sanity to Master the Art of Living"
+Chris Hadfield,18170143,An Astronaut's Guide to Life on Earth
+Ron Chernow,16130,Alexander Hamilton
+Chimamanda Ngozi Adichie,22738563,We Should All Be Feminists
+Ayaan Hirsi Ali,81227,Infidel
+Dave Eggers,6512154,Zeitoun
+Alison Bechdel,26135825,Fun Home: A Family Tragicomic
+Richard Dawkins,6117055,The Greatest Show on Earth: The Evidence for Evolution
+Douglas R. Hofstadter,24113,"Gödel, Escher, Bach: An Eternal Golden Braid"
+Marjane Satrapi,991197,The Complete Persepolis
+Cheryl Strayed,13152194,Tiny Beautiful Things: Advice on Love and Life from Dear Sugar
+Jen Campbell,12640991,Weird Things Customers Say in Bookshops
+Daniel Kahneman,11468377,"Thinking, Fast and Slow"
+Carrie Fisher,4961048,Wishful Drinking
+Matthew Desmond,25852784,Evicted: Poverty and Profit in the American City
+Ben Goldacre,3272165,Bad Science
+Solomon Northup,18478222,Twelve Years a Slave
+Deborah Blum,7054123,The Poisoner's Handbook: Murder and the Birth of Forensic Medicine in Jazz Age New York
+Naomi Klein,1237300,The Shock Doctrine: The Rise of Disaster Capitalism
+Chuck Klosterman,599,"Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto"
+Naoki Higashida,16113737,The Reason I Jump: The Inner Voice of a Thirteen-Year-Old Boy with Autism
+Reza Aslan,17568801,Zealot: The Life and Times of Jesus of Nazareth
+Timothy Egan,72223,The Worst Hard Time: The Untold Story of Those Who Survived the Great American Dust Bowl
+Bill Bryson,17262366,"One Summer: America, 1927"
+Dava Sobel,4806,Longitude: The True Story of a Lone Genius Who Solved the Greatest Scientific Problem of His Time
+Michael Moss,15797397,Salt Sugar Fat: How the Food Giants Hooked Us
+Simon Winchester,25019,"The Professor and the Madman: A Tale of Murder, Insanity and the Making of the Oxford English Dictionary"
+Robert M. Pirsig,629,Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values
+Tracy Kidder,10235,"Mountains Beyond Mountains: The Quest of Dr. Paul Farmer, A Man Who Would Cure the World"
+Brené Brown,7015403,The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are
+Oliver Sacks,1297985,Musicophilia: Tales of Music and the Brain
+Anna Kendrick,29868610,Scrappy Little Nobody
+Ellen DeGeneres,11230081,Seriously... I'm Kidding
+Sebastian Junger,6545608,The Perfect Storm: A True Story of Men Against the Sea
+John Hersey,27323,Hiroshima
+Daniel H. Pink,6452796,Drive: The Surprising Truth About What Motivates Us
+Carrie Fisher,26025989,The Princess Diarist
+Lin-Manuel Miranda,26200563,Hamilton: The Revolution
+Diane Ackerman,32722510,The Zookeeper's Wife
+Alfred Lansing,139069,Endurance: Shackleton's Incredible Voyage
+Rachel Carson,27333,Silent Spring
+Bill Bryson,27,Neither Here nor There: Travels in Europe
+Nate Silver,13588394,The Signal and the Noise: Why So Many Predictions Fail - But Some Don't
+Marina Keegan,18143905,The Opposite of Loneliness: Essays and Stories
+Art Spiegelman,15196,"Maus I: A Survivor's Tale: My Father Bleeds History (Maus, #1)"
+Robert T. Kiyosaki,69571,"Rich Dad, Poor Dad"
+Joshua Foer,6346975,Moonwalking with Einstein: The Art and Science of Remembering Everything
+William L. Shirer,767171,The Rise and Fall of the Third Reich: A History of Nazi Germany
+Austin Kleon,13099738,Steal Like an Artist: 10 Things Nobody Told You About Being Creative
+Michael Pollan,7015635,Food Rules: An Eater's Manual
+Frederick Douglass,36529,Narrative of the Life of Frederick Douglass
+Bill Bryson,26,The Lost Continent: Travels in Small-Town America
+Helene Hanff,368916,"84, Charing Cross Road"
+Amy Schumer,29405093,The Girl with the Lower Back Tattoo
+Lauren Graham,30253864,"Talking as Fast as I Can: From Gilmore Girls to Gilmore Girls, and Everything in Between"
+Erik Larson,9938498,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin"
+Dave Cullen,5632446,Columbine
+Dave Eggers,4953,A Heartbreaking Work of Staggering Genius
+James Herriot,18929854,All Creatures Great and Small
+Rhonda Byrne,52529,"The Secret (The Secret, #1)"
+Joseph Campbell,588138,The Hero With a Thousand Faces
+Timothy Ferriss,368593,The 4-Hour Workweek
+Marcus Aurelius,30659,Meditations
+Randy Pausch,2318271,The Last Lecture
+John Gray,1274,"Men Are from Mars, Women Are from Venus"
+John Steinbeck,5306,Travels with Charley: In Search of America
+Jean-Dominique Bauby,193755,The Diving Bell and the Butterfly
+Amy Chua,9160695,Battle Hymn of the Tiger Mother
+Stephen E. Ambrose,42389,"Band of Brothers: E Company, 506th Regiment, 101st Airborne from Normandy to Hitler's Eagle's Nest"
+Robert K. Massie,10414941,Catherine the Great: Portrait of a Woman
+David Foster Wallace,6751,Consider the Lobster and Other Essays
+Gavin de Becker,56465,The Gift of Fear: Survival Signals That Protect Us from Violence
+Lindy West,29340182,Shrill: Notes from a Loud Woman
+Candice Millard,10335318,"Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President"
+Daniel Todd Gilbert,56627,Stumbling on Happiness
+James McBride,29209,The Color of Water: A Black Man's Tribute to His White Mother
+Jenny  Lawson,23848559,Furiously Happy: A Funny Book About Horrible Things
+Naomi Klein,647,No Logo
+Bill Bryson,10538,The Life and Times of the Thunderbolt Kid
+Erik Larson,239186,"Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History"
+Eckhart Tolle,6708,The Power of Now: A Guide to Spiritual Enlightenment
+Denise Kiernan,15801668,The Girls of Atomic City: The Untold Story of the Women Who Helped Win World War II
+Benjamin Hoff,48757,The Tao of Pooh
+Stephen Hawking,8520362,The Grand Design
+Alice Sebold,82970,Lucky
+Simon Singh,17994,The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography
+Mary Roach,32191737,Grunt: The Curious Science of Humans at War
+Dave Pelzer,60748,"A Child Called ""It"" (Dave Pelzer #1)"
+Kay Redfield Jamison,361459,An Unquiet Mind: A Memoir of Moods and Madness
+Alison Weir,10104,The Six Wives of Henry VIII
+Philip Gourevitch,11472,We Wish to Inform You That Tomorrow We Will Be Killed with Our Families
+Hope Jahren,25733983,Lab Girl
+Michael   Lewis,24724602,Flash Boys: A Wall Street Revolt
+Eric    Weiner,1918305,The Geography of Bliss: One Grump's Search for the Happiest Places in the World
+Dan   Harris,1850579610,"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works"
+Flora Rheta Schreiber,67920,Sybil: The Classic True Story of a Woman Possessed by Sixteen Personalities
+Siddhartha Mukherjee,27276428,The Gene: An Intimate History
+Irin Carmon,25422234,Notorious RBG: The Life and Times of Ruth Bader Ginsburg
+Steven Pinker,5755,The Language Instinct: How the Mind Creates Language
+Helen Keller,821611,The Story of My Life
+Carol S. Dweck,40745,Mindset: The New Psychology of Success
+Jim Gaffigan,16141924,Dad Is Fat
+Amanda Palmer,20980987,"The Art of Asking; or, How I Learned to Stop Worrying and Let People Help"
+Bertrand Russell,243685,A History of Western Philosophy
+Immanuel Kant,18288,Critique of Pure Reason
+Plato,81779,The Symposium
+Jean-Paul Sartre,10033,Being and Nothingness
+Martin Heidegger,92307,Being and Time
+Søren Kierkegaard,24965,Fear and Trembling
+Jean-Paul Sartre,298275,Nausea
+Jean-Jacques Rousseau,12651,The Social Contract
+Plato,73945,Apology
+René Descartes,31862,Discourse on Method and Meditations on First Philosophy
+Ludwig Wittgenstein,12075,Tractatus Logico-Philosophicus
+Aristotle,19083,Politics
+Kahlil Gibran,2547,The Prophet
+Jean-Paul Sartre,51985,Existentialism Is a Humanism
+Bertrand Russell,31799,The Problems of Philosophy
+Ludwig Wittgenstein,12073,Philosophical Investigations
+Michel Foucault,80369,Discipline and Punish: The Birth of the Prison
+Friedrich Nietzsche,80449,On the Genealogy of Morals
+John Stuart Mill,584637,Utilitarianism
+Alain de Botton,23419,The Consolations of Philosophy
+Aristotle,13270,Poetics
+Plato,22632,The Trial and Death of Socrates
+Confucius,27297,The Analects
+Friedrich Nietzsche,2823,The Birth of Tragedy
+David Hume,80311,A Treatise of Human Nature
+Boethius,31837,The Consolation of Philosophy
+Bertrand Russell,472025,Why I Am Not a Christian and Other Essays on Religion and Related Subjects
+René Descartes,159418,Discourse on Method
+Plato,30292,"Five Dialogues: Euthyphro, Apology, Crito, Meno, Phaedo"
+Albert Camus,11991,The Fall
+Friedrich Nietzsche,451565,"Human, All Too Human"
+Blaise Pascal,449407,Pensées
+Seneca,97412,On the Shortness of Life
+Arthur Schopenhauer,19506,"The World as Will and Representation, Vol 1"
+Albert Camus,91950,The Myth of Sisyphus
+Ayn Rand,667,Anthem
+Thomas Cathcart,180995,Plato and a Platypus Walk Into a Bar: Understanding Philosophy Through Jokes
+Søren Kierkegaard,24970,Either/Or: A Fragment of Life
+Albert Camus,11990,The Rebel: An Essay on Man in Revolt
+Søren Kierkegaard,24972,The Sickness Unto Death: A Christian Psychological Exposition for Upbuilding and Awakening
+Michel de Montaigne,30735,The Complete Essays
+Jean-Jacques Rousseau,22472,Discourse on the Origin of Inequality
+Michael J. Sandel,6452731,Justice: What's the Right Thing to Do?
+Plato,9462,Complete Works
+Sam Harris,7785194,The Moral Landscape: How Science Can Determine Human Values
+Yann Martel,4214,Life of Pi
+Harry G. Frankfurt,385,On Bullshit
+Sigmund Freud,357636,Civilization and Its Discontents
+Richard Bach,71728,Jonathan Livingston Seagull
+Titus Lucretius Carus,195769,The Way Things Are: The De Rerum Natura
+Miyamoto Musashi,867247,A Book of Five Rings: The Classic Guide to Strategy
+Plato,982310,Phaedo
+Friedrich Nietzsche,80447,The Portable Nietzsche
+John Locke,448836,Second Treatise of Government
+Immanuel Kant,80324,Prolegomena to Any Future Metaphysics
+Jean Baudrillard,22613,Simulacra and Simulation
+Krishna-Dwaipayana Vyasa,99944,The Bhagavad Gita
+William B. Irvine,5617966,A Guide to the Good Life: The Ancient Art of Stoic Joy
+C.S. Lewis,11138,Mere Christianity
+Seneca,97411,Letters from a Stoic (a selection)
+Michel Foucault,119561,The Order of Things: An Archaeology of the Human Sciences
+Friedrich Nietzsche,43150,Twilight of the Idols/The Anti-Christ
+Ayn Rand,665,The Virtue of Selfishness: A New Concept of Egoism
+David Hume,80313,Dialogues Concerning Natural Religion
+Sam Harris,29501,"The End of Faith: Religion, Terror, and the Future of Reason"
+Hermann Hesse,16631,Steppenwolf
+Plato,360882,Phaedrus
+Alasdair MacIntyre,332138,After Virtue: A Study in Moral Theory
+Arthur Schopenhauer,19510,Essays and Aphorisms
+Thomas Paine,161744,Common Sense
+Maurice Merleau-Ponty,18279,Phenomenology of Perception
+Alan W. Watts,60551,The Book on the Taboo Against Knowing Who You Are
+Aldous Huxley,5128,The Doors of Perception & Heaven and Hell
+Epictetus,24615,Enchiridion
+Adam Smith,25698,The Wealth of Nations
+Sarah Bakewell,25658482,"At the Existentialist Café: Freedom, Being, and Apricot Cocktails"
+Immanuel Kant,375410,Critique of Judgment
+Thomas Paine,1031803,The Age of Reason
+Plato,846122,Meno
+Simone de Beauvoir,21119,The Ethics of Ambiguity
+Roland Barthes,51715,Mythologies
+Shunryu Suzuki,402843,"Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice"
+William James,28820,The Varieties of Religious Experience
+Guy Debord,381440,The Society of the Spectacle
+Hannah Arendt,52090,Eichmann in Jerusalem: A Report on the Banality of Evil
+Daniel C. Dennett,2069,Consciousness Explained
+Daniel C. Dennett,2067,Breaking the Spell: Religion as a Natural Phenomenon
+Nassim Nicholas Taleb,13530973,Antifragile: Things That Gain from Disorder
+Carl Sagan,17349,The Demon-Haunted World: Science as a Candle in the Dark
+Simon Blackburn,1038873,Think: A Compelling Introduction to Philosophy
+Plato,30300,The Last Days of Socrates
+Plato,811970,Euthyphro
+Theodor W. Adorno,85812,Dialectic of Enlightenment: Philosophical Fragments
+Gilles Deleuze,118317,Anti-Oedipus: Capitalism and Schizophrenia
+C.S. Lewis,79428,The Abolition of Man
+Jean-Paul Sartre,10037,No Exit and Three Other Plays
+Alain de Botton,23420,How Proust Can Change Your Life
+Ralph Waldo Emerson,123845,Self-Reliance and Other Essays
+Plato,780072,Crito
+Friedrich Nietzsche,12319,Basic Writings of Nietzsche
+Augustine of Hippo,25673,City of God
+Martin Heidegger,203310,"Poetry, Language, Thought"
+Alain de Botton,23425,Status Anxiety
+Christopher Hitchens,1566053,The Portable Atheist: Essential Readings for the Nonbeliever
+Michel Foucault,232743,The Archaeology of Knowledge & The Discourse on Language
+Hannah Arendt,396931,The Origins of Totalitarianism
+Alan W. Watts,551520,The Wisdom of Insecurity: A Message for an Age of Anxiety
+Albert Camus,11987,The Myth of Sisyphus and Other Essays
+Douglas R. Hofstadter,2081,The Mind’s I: Fantasies and Reflections on Self and Soul
+Daniel C. Dennett,2068,Darwin's Dangerous Idea: Evolution and the Meanings of Life
+Gilles Deleuze,118316,A Thousand Plateaus: Capitalism and Schizophrenia
+Alan W. Watts,514210,The Way of Zen
+Arthur Schopenhauer,445747,"The World as Will and Representation, Vol 2"
+Ernest Becker,2761,The Denial of Death
+Robert Nozick,479572,"Anarchy, State, and Utopia"
+Miguel Ruiz,6596,The Four Agreements: A Practical Guide to Personal Freedom
+Sam Harris,51299,Letter to a Christian Nation
+Martin Heidegger,393902,"Basic Writings: Ten Key Essays, plus the Introduction to Being and Time"
+Jean-Paul Sartre,10034,The Age of Reason
+Aristotle,881319,The Art of Rhetoric
+Sam Harris,18869177,Lying
+Jean-Paul Sartre,22623,Existentialism and Human Emotions
+Walter Benjamin,2725,Illuminations: Essays and Reflections
+Will Durant,31795,The Story of Philosophy: The Lives and Opinions of the World's Greatest Philosophers
+Sarah Bakewell,7624457,How to Live: A Life of Montaigne in One Question and Twenty Attempts at An Answer
+Gaston Bachelard,13269,The Poetics of Space
+Plato,340960,Theaetetus
+Georg Wilhelm Friedrich Hegel,25241,The Philosophy of History
+Fyodor Dostoyevsky,17876,"Notes from Underground, White Nights, The Dream of a Ridiculous Man, and Selections from The House of the Dead"
+Alexis de Tocqueville,16619,Democracy in America 
+Richard M. Rorty,31947,Philosophy and the Mirror of Nature
+Mary Wollstonecraft,224387,A Vindication of the Rights of Woman
+William James,681508,Pragmatism: A New Name for Some Old Ways of Thinking
+Fyodor Dostoyevsky,49455,Notes from Underground
+Daniel C. Dennett,18378002,Intuition Pumps And Other Tools for Thinking
+David Hume,839433,An Enquiry Concerning the Principles of Morals
+Walter Kaufmann,162022,"Nietzsche: Philosopher, Psychologist, Antichrist"
+Bertrand Russell,135742,In Praise of Idleness and Other Essays
+John Stuart Mill,385228,On Liberty
+Sigmund Freud,93981,The Interpretation of Dreams
+Jacques Derrida,765346,Writing and Difference
+Jean-Paul Sartre,123933,No Exit
+Peter Singer,29380,Animal Liberation
+Derek Parfit,327051,Reasons and Persons
+Douglas R. Hofstadter,123471,I Am a Strange Loop
+Ryan Holiday,18668059,The Obstacle Is the Way: The Timeless Art of Turning Trials into Triumph
+Henry David Thoreau,16900,Civil Disobedience and Other Essays
+Judith Butler,85767,Gender Trouble: Feminism and the Subversion of Identity
+Adam Smith,25700,The Theory of Moral Sentiments
+Alain de Botton,23426,On Love
+George Berkeley,159994,A Treatise Concerning the Principles of Human Knowledge
+Epictetus,1045017,The Discourses
+Thomas Paine,177523,Rights of Man
+Steven Pinker,5752,The Blank Slate: The Modern Denial of Human Nature
+Will Buckingham,8493026,The Philosophy Book
+William Barrett,83321,Irrational Man: A Study in Existential Philosophy
+Niccolò Machiavelli,99328,The Discourses
+Friedrich Nietzsche,94578,The Gay Science
+Henry David Thoreau,18626866,Civil Disobedience
+Peter Singer,29378,Practical Ethics
+Tsunetomo Yamamoto,277950,Hagakure: The Book of the Samurai
+Karl R. Popper,1129911,The Open Society and Its Enemies - Volume 1: The Spell of Plato
+Karl Marx,238953,Das Kapital
+C.S. Lewis,26435,The Problem of Pain
+Alexander Hamilton,110331,The Federalist Papers
+Benjamin Hoff,89369,The Te of Piglet
+Slavoj Žižek,18912,The Sublime Object of Ideology
+Stephen Greenblatt,13707734,The Swerve: How the World Became Modern
+Karl Marx,325785,"Capital, Vol 1: A Critical Analysis of Capitalist Production"
+Frederick Charles Copleston,31866,"A History of Philosophy, Vol. 1: Greece and Rome, From the Pre-Socratics to Plotinus"
+Jean-François Lyotard,252648,The Postmodern Condition: A Report on Knowledge
+Erich Fromm,25491,Escape from Freedom
+Daniel C. Dennett,2071,Freedom Evolves
+Slavoj Žižek,2638701,Violence
+Paulo Freire,72657,Pedagogy of the Oppressed
+Edwin A. Abbott,433567,Flatland: A Romance of Many Dimensions
+Thomas Nagel,100021,What Does It All Mean? A Very Short Introduction to Philosophy
+Michel Foucault,1878,"The History of Sexuality, Volume 2: The Use of Pleasure"
+Hans-Georg Gadamer,213142,Truth and Method
+Edward Said,355190,Orientalism
+Friedrich Nietzsche,12321,Beyond Good and Evil
+Thomas Paine,99955,"Common Sense, The Rights of Man and Other Essential Writings"
+Jonathan Haidt,96884,The Happiness Hypothesis: Finding Modern Truth in Ancient Wisdom
+Emil M. Cioran,117566,On the Heights of Despair
+Theodor W. Adorno,201388,Minima Moralia: Reflections from a Damaged Life
+Karl R. Popper,61550,The Logic of Scientific Discovery
+David Foster Wallace,5986375,"This Is Water: Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life"
+Jostein Gaarder,48318,The Solitaire Mystery: A Novel About Family and Destiny
+Jean-Jacques Rousseau,326679,Emile or On Education
+Richard Bach,29946,Illusions: The Adventures of a Reluctant Messiah
+Irvin D. Yalom,21031,When Nietzsche Wept
+Robert Greene,1303,The 48 Laws of Power
+Eckhart Tolle,76334,A New Earth: Awakening to Your Life's Purpose
+Baruch Spinoza,205218,Ethics
+Henri Bergson,865540,Matter and Memory
+Robert M. Pirsig,31093,Lila: An Inquiry Into Morals
+Michael J. Sandel,13221379,What Money Can't Buy: The Moral Limits of Markets
+Karl Marx,52184,The Marx-Engels Reader
+Aristotle,366330,Physics
+Gilles Deleuze,83271,Nietzsche and Philosophy (European Perspectives)
+Friedrich Nietzsche,479356,Ecce Homo
+Gottfried Wilhelm Leibniz,649465,Philosophical Essays
+Gilles Deleuze,765337,Difference and Repetition
+Noam Chomsky,12614,The Chomsky - Foucault Debate: On Human Nature
+Ayn Rand,668,We the Living
+John Berger,2784,Ways of Seeing
+C.G. Jung,123632,Man and His Symbols
+Epictetus,4143812,Discourses and Selected Writings
+Jonathan Barnes,31910,Early Greek Philosophy
+Nick Bostrom,20527133,"Superintelligence: Paths, Dangers, Strategies"
+Slavoj Žižek,6636487,"First as Tragedy, Then as Farce"
+George Berkeley,1171160,Three Dialogues Between Hylas and Philonous
+Ayn Rand,843433,Philosophy: Who Needs It (Ayn Rand Library)
+Plato,848993,Protagoras
+Epicurus,195762,The Essential Epicurus
+Francis Bacon,677923,The Essays
+Allan Bloom,75812,The Closing of the American Mind
+Georg Wilhelm Friedrich Hegel,25248,Elements of the Philosophy of Right
+Hermann Hesse,24861,Demian. Die Geschichte von Emil Sinclairs Jugend
+Thomas Ligotti,8524528,The Conspiracy Against the Human Race
+Aristotle,9438,The Basic Works of Aristotle
+Carlos Castaneda,78250,The Teachings of Don Juan: A Yaqui Way of Knowledge 
+Emil M. Cioran,117564,The Trouble with Being Born
+Jiddu Krishnamurti,143877,Freedom from the Known
+Ayn Rand,663,For the New Intellectual: The Philosophy of Ayn Rand
+Søren Kierkegaard,17987667,The Concept of Anxiety: A Simple Psychologically Oriented Deliberation in View of the Dogmatic Problem of Hereditary Sin
+Pierre Hadot,305860,Philosophy As a Way of Life: Spiritual Exercises from Socrates to Foucault
+Xenophon,70552,Conversations of Socrates
+Richard M. Rorty,86098,"Contingency, Irony, and Solidarity"
+Rebecca Goldstein,18050049,Plato at the Googleplex: Why Philosophy Won't Go Away
+Michel Foucault,770902,The Foucault Reader: An Introduction to Foucault's Thought
+Alain de Botton,23418,The Architecture of Happiness
+Gilles Deleuze,118319,What Is Philosophy?
+Plotinus,26252,The Enneads
+Albert Camus,11995,"Resistance, Rebellion and Death: Essays"
+Bertrand Russell,67354,What I Believe
+Louis Menand,28202,The Metaphysical Club
+Samir Okasha,31921,Philosophy of Science: A Very Short Introduction
+Montesquieu,141958,The Spirit of the Laws (Cambridge Texts in the History of Political Thought)
+Roland Barthes,380994,A Lover's Discourse: Fragments
+Herbert Marcuse,349650,One-Dimensional Man: Studies in the Ideology of Advanced Industrial Society
+Edmund Burke,160019,Reflections on the Revolution in France 
+Hannah Arendt,127230,On Violence
+Rainer Maria Rilke,46199,Letters to a Young Poet
+Emil M. Cioran,2855,A Short History of Decay
+Yuval Noah Harari,31138556,Homo Deus: A Brief History of Tomorrow
+Daniel Quinn,227265,Ishmael
+David Hume,130119,An Enquiry Concerning Human Understanding
+Bertrand Russell,51783,The Conquest of Happiness
+Luc Ferry,12082644,A Brief History of Thought: A Philosophical Guide to Living
+Alan Lightman,14376,Einstein's Dreams
+Eric Hoffer,15916,The True Believer: Thoughts on the Nature of Mass Movements
+Frantz Fanon,66933,The Wretched of the Earth
+Michel Foucault,1876,"The History of Sexuality, Volume 3: The Care of the Self"
+Jonathan Haidt,11324722,The Righteous Mind: Why Good People are Divided by Politics and Religion
+Carl von Clausewitz,117031,On War
+Alain de Botton,5293573,The Pleasures and Sorrows of Work
+Nigel Warburton,31854,Philosophy: The Basics
+Philip K. Dick,7082,Do Androids Dream of Electric Sheep?
+Marissa Meyer,11235712,"Cinder (The Lunar Chronicles, #1)"
+Arthur C. Clarke,70535,"2001: A Space Odyssey (Space Odyssey, #1)"
+Isaac Asimov,41804,"I, Robot (Robot #0.1)"
+John Scalzi,51964,"Old Man's War (Old Man's War, #1)"
+Isaac Asimov,29581,Foundation and Empire (Foundation #2)
+Douglas Adams,8694,"Life, the Universe and Everything (Hitchhiker's Guide, #3)"
+Robert A. Heinlein,17214,Starship Troopers
+James S.A. Corey,8855321,"Leviathan Wakes (The Expanse, #1)"
+Dan Simmons,77566,"Hyperion (Hyperion Cantos, #1)"
+Isaac Asimov,29580,Second Foundation (Foundation #3)
+Douglas Adams,6091075,"So Long, and Thanks for All the Fish"
+Arthur C. Clarke,414999,Childhood's End
+Orson Scott Card,8648,"Xenocide (Ender's Saga, #3)"
+Orson Scott Card,9532,"Ender's Shadow (Ender's Shadow, #1)"
+Pierce Brown,15839976,"Red Rising (Red Rising, #1)"
+Frank Herbert,112,Children of Dune (Dune Chronicles #3)
+Rick Yancey,161011285,"The 5th Wave (The 5th Wave, #1)"
+Larry Niven,61179,"Ringworld (Ringworld, #1)"
+John Scalzi,13055592,Redshirts
+Douglas Adams,13,The Ultimate Hitchhiker's Guide to the Galaxy
+Marissa Meyer,13206828,"Cress (The Lunar Chronicles, #3)"
+Scott Westerfeld,24770,"Uglies (Uglies, #1)"
+Walter M. Miller Jr.,164154,A Canticle for Leibowitz
+Douglas Adams,569429,Mostly Harmless
+Ursula K. Le Guin,13651,The Dispossessed
+Isaac Asimov,41811,The Caves of Steel (Robot #1)
+Iain M. Banks,8935689,"Consider Phlebas (Culture, #1)"
+Orson Scott Card,31360,"Children of the Mind (Ender's Saga, #4)"
+Isaac Asimov,76683,Foundation's Edge (Foundation #4)
+Carl Sagan,61666,Contact
+Liu Cixin,20518872,"The Three-Body Problem (Remembrance of Earth’s Past, #1)"
+Beth Revis,8235178,"Across the Universe (Across the Universe, #1)"
+Kim Stanley Robinson,77507,"Red Mars (Mars Trilogy, #1)"
+Cormac McCarthy,6288,The Road
+Robert A. Heinlein,16690,The Moon is a Harsh Mistress
+Dan Simmons,77565,"The Fall of Hyperion (Hyperion Cantos, #2)"
+Philip K. Dick,22590,Ubik
+Neal Stephenson,827,"The Diamond Age: or, A Young Lady's Illustrated Primer"
+Marissa Meyer,13206900,"Winter (The Lunar Chronicles, #4)"
+Neal Stephenson,22816087,Seveneves
+David Mitchell,49628,Cloud Atlas
+John Wyndham,530965,The Day of the Triffids
+Isaac Asimov,29582,Foundation and Earth (Foundation #5)
+James Dashner,7631105,"The Scorch Trials (Maze Runner, #2)"
+Richard K. Morgan,40445,"Altered Carbon (Takeshi Kovacs, #1)"
+Jeff VanderMeer,17934530,"Annihilation (Southern Reach, #1)"
+Connie Willis,24983,"Doomsday Book (Oxford Time Travel, #1)"
+Stanis?aw Lem,95558,Solaris
+James S.A. Corey,12591698,"Caliban's War (The Expanse, #2)"
+Isaac Asimov,30013,Prelude to Foundation
+John Scalzi,239399,"The Ghost Brigades (Old Man's War, #2)"
+Pittacus Lore,7747374,"I Am Number Four (Lorien Legacies, #1)"
+Vernor Vinge,77711,"A Fire Upon the Deep (Zones of Thought, #1)"
+Ray Bradbury,24830,The Illustrated Man
+Amie Kaufman,13138635,"These Broken Stars (Starbound, #1)"
+Neal Stephenson,2845024,Anathem
+Patrick Ness,2118745,"The Knife of Never Letting Go (Chaos Walking, #1)"
+Ursula K. Le Guin,59924,The Lathe of Heaven
+Larry Niven,100365,The Mote in God's Eye
+Ernest Cline,16278318,Armada
+John Scalzi,21418013,"Lock In (Lock In, #1)"
+Pierce Brown,18966819,"Golden Son (Red Rising, #2)"
+Becky  Chambers,22733729,"The Long Way to a Small, Angry Planet (Wayfarers, #1)"
+Mary Doria Russell,334176,"The Sparrow (The Sparrow, #1)"
+Orson Scott Card,9534,"Shadow of the Hegemon (Ender's Shadow, #2)"
+Brian K. Vaughan,157043071,"Saga, Vol. 1 (Saga, #1)"
+Alastair Reynolds,89187,Revelation Space
+Iain M. Banks,18630,"The Player of Games (Culture, #2)"
+Kurt Vonnegut Jr.,4982,The Sirens of Titan
+Neal Stephenson,816,Cryptonomicon
+Frank Herbert,117,Heretics of Dune (Dune Chronicles #5)
+Arthur C. Clarke,70539,"2010: Odyssey Two (Space Odyssey, #2)"
+Timothy Zahn,216443,Heir to the Empire (Star Wars: The Thrawn Trilogy #1)
+Ally Condie,7735333,"Matched (Matched, #1)"
+Edgar Rice Burroughs,40395,"A Princess of Mars (Barsoom, #1)"
+James S.A. Corey,16131032,"Abaddon's Gate (The Expanse, #3)"
+James Dashner,7864437,"The Death Cure (Maze Runner, #3)"
+Peter F. Hamilton,45252,Pandora's Star
+Ann Leckie,17333324,Ancillary Justice (Imperial Radch #1)
+Frank Herbert,105,Chapterhouse: Dune (Dune Chronicles #6)
+John Scalzi,88071,The Last Colony (Old Man's War #3)
+David Weber,35921,"On Basilisk Station (Honor Harrington, #1)"
+Orson Scott Card,234724,"Shadow Puppets (Ender's Shadow, #3)"
+Scott Westerfeld,24765,"Specials (Uglies, #3)"
+Anthony Burgess,227463,A Clockwork Orange
+Yevgeny Zamyatin,76171,We
+Sylvain Neuvel,25733990,"Sleeping Giants (Themis Files, #1)"
+Margaret Atwood,6080337,"The Year of the Flood  (MaddAddam, #2)"
+Pierce Brown,18966806,"Morning Star (Red Rising, #3)"
+Connie Willis,77773,"To Say Nothing of the Dog (Oxford Time Travel, #2)"
+Robert Charles Wilson,910863,"Spin (Spin, #1)"
+Frederik Pohl,218427,"Gateway (Heechee Saga, #1)"
+Dan Simmons,3977,"Endymion (Hyperion Cantos, #3)"
+Amie Kaufman,23395680,"Illuminae (The Illuminae Files, #1)"
+Ann Leckie,20706284,"Ancillary Sword (Imperial Radch, #2)"
+Alfred Bester,76740,The Demolished Man
+Rick Yancey,16131484,"The Infinite Sea (The 5th Wave, #2)"
+Isaac Asimov,509784,The End of Eternity
+Timothy Zahn,216442,"Dark Force Rising (Star Wars: The Thrawn Trilogy, #2)"
+Scott Westerfeld,6050678,"Leviathan (Leviathan, #1)"
+Orson Scott Card,8647,"Shadow of the Giant (Ender's Shadow, #4)"
+Brian K. Vaughan,171318692,"Saga, Vol. 2 (Saga, #2)"
+Alfred Bester,333867,The Stars My Destination
+Marissa Meyer,22489107,"Fairest (The Lunar Chronicles, #3.5)"
+Iain M. Banks,12007,"Use of Weapons (Culture, #3)"
+Dan Simmons,11289,"The Rise of Endymion (Hyperion Cantos, #4)"
+Kim Stanley Robinson,77505,"Green Mars (Mars Trilogy, #2)"
+Jeanne DuPrau,307791,"The City of Ember (Book of Ember, #1)"
+Isaac Asimov,46654,"The Foundation Trilogy (Foundation, #1-3)"
+Timothy Zahn,216422,"The Last Command (Star Wars: The Thrawn Trilogy, #3)"
+Isaac Asimov,30016,The Naked Sun (Robot #2)
+James S.A. Corey,18656030,"Cibola Burn (The Expanse, #4)"
+William Gibson,22200,"Count Zero (Sprawl, #2)"
+M.T. Anderson,169756,Feed
+Anne McCaffrey,61975,"Dragonflight (Dragonriders of Pern, #1)"
+China Miéville,9265453,Embassytown
+Marie Lu,9275658,"Legend (Legend, #1)"
+Richard Matheson,14064,I Am Legend
+Arthur C. Clarke,35816,"2061: Odyssey Three (Space Odyssey, #3)"
+C.S. Lewis,100924,"Perelandra (Space Trilogy, #2)"
+Nancy Farmer,13376,"The House of the Scorpion (Matteo Alacran, #1)"
+Lois McMaster Bujold,61906,"The Warrior's Apprentice (Vorkosigan Saga, #2)"
+Octavia E. Butler,52397,"Parable of the Sower (Earthseed, #1)"
+Stephen King,10628,Night Shift
+William Peter Blatty,179780,The Exorcist
+John Ajvide Lindqvist,943402,Let the Right One In
+Richard Bachman,10605,Thinner
+Stephen King,13440,Skeleton Crew
+Stephen King,11570,Dreamcatcher
+Anne Rice,43814,"The Vampire Lestat (The Vampire Chronicles, #2)"
+Stephen King,10585,Insomnia
+Richard Matheson,547094,I Am Legend and Other Stories
+Shirley Jackson,89724,We Have Always Lived in the Castle
+Stephen King,10579,Everything's Eventual: 14 Dark Tales
+Stephen King,7912007,"Full Dark, No Stars"
+Anne Rice,43758,"The Queen of the Damned (The Vampire Chronicles, #3)"
+Anne Rice,43763,"Interview with the Vampire (The Vampire Chronicles, #1)"
+Stephen King,813214,The Mist
+Ray Bradbury,248596,"Something Wicked This Way Comes (Green Town, #2)"
+Kendare Blake,9378297,"Anna Dressed in Blood (Anna, #1)"
+Stephen King,10588,Nightmares and Dreamscapes
+Stephen King,472343,Duma Key
+Stephen King,10619,Rose Madder
+Stephen King,59219,"The Talisman (The Talisman, #1)"
+Peter Straub,19581,Ghost Story
+Richard Matheson,33547,Hell House
+Joe Hill,32172211,"Locke & Key, Vol. 1: Welcome to Lovecraft"
+Mira Grant,7094569,"Feed (Newsflesh Trilogy, #1)"
+Susan Hill,37034,The Woman in Black
+Jay Anson,293101,The Amityville Horror
+Henry James,12948,The Turn of the Screw
+Clive Barker,52635,The Hellbound Heart
+Stephen King,5094,"The Drawing of the Three (The Dark Tower, #2)"
+Seth Grahame-Smith,5899779,"Pride and Prejudice and Zombies (Pride and Prejudice and Zombies, #1)"
+Stephen King,17660,The Tommyknockers
+Richard Bachman,10596,The Regulators
+Stephen King,10607,"Black House (The Talisman, #2)"
+Stephen King,10566,Lisey's Story
+Stephen King,550844,Cycle of the Werewolf
+Stephen King,34084,"The Waste Lands (The Dark Tower, #3)"
+Anne Rice,11901,"The Witching Hour (Lives of the Mayfair Witches, #1)"
+Paul Tremblay,23019294,A Head Full of Ghosts
+Joe Hill,373915,20th Century Ghosts
+Stephen King,2906039,Just After Sunset
+Dan Simmons,3974,The Terror
+Robert McCammon,11557,Swan Song
+Dean Koontz,32435,Phantoms
+Guillermo del Toro,6723348,"The Fall (The Strain Trilogy, #2)"
+Joe Hill,29875363,The Fireman
+Seth Grahame-Smith,7108001,Abraham Lincoln: Vampire Hunter
+Anne Rice,31338,"Memnoch the Devil (The Vampire Chronicles, #5)"
+Stephen King,5096,"Wizard and Glass (The Dark Tower, #4)"
+Stephen King,11602,Hearts in Atlantis
+H.P. Lovecraft,32767,At the Mountains of Madness
+Nick Cutter,17571466,The Troop
+Justin Cronin,13281368,"The Twelve (The Passage, #2)"
+Patrick Ness,8621462,A Monster Calls
+Robert Bloch,156427,Psycho
+Max Brooks,535441,The Zombie Survival Guide: Complete Protection from the Living Dead
+H.P. Lovecraft,36315,The Best of H.P. Lovecraft: Bloodcurdling Tales of Horror and the Macabre
+Carrie Ryan,3432478,"The Forest of Hands and Teeth (The Forest of Hands and Teeth, #1)"
+J. Sheridan Le Fanu,48037,Carmilla
+Clive Barker,32626,Books of Blood: Volumes One to Three (Books of Blood #1-3)
+Chuck Palahniuk,22288,Haunted
+Rick Yancey,6457229,"The Monstrumologist (The Monstrumologist, #1)"
+Richard Bachman,10617,The Bachman Books
+Stephen King,23512999,The Bazaar of Bad Dreams
+Stephen King,4978,"Wolves of the Calla (The Dark Tower, #5)"
+Stephen King,5091,"The Dark Tower (The Dark Tower, #7)"
+Stephen King,20926278,Revival
+Joe Hill,61203492,"Locke & Key, Vol. 2: Head Games"
+Dan Simmons,11286,Carrion Comfort
+Stephen King,5093,"Song of Susannah (The Dark Tower, #6)"
+Alvin Schwartz,1325218,"Scary Stories to Tell in the Dark (Scary Stories, #1)"
+Anne Rice,31332,"The Vampire Armand (The Vampire Chronicles, #6)"
+David Mitchell,24499258,Slade House
+V.C. Andrews,43448,"Flowers in the Attic (Dollanganger, #1)"
+David Wong,1857440,"John Dies at the End (John Dies at the End, #1)"
+Jack Ketchum,179735,The Girl Next Door
+Dan Simmons,11279,Summer of Night
+Clive Barker,34605,The Damnation Game
+Clive Barker,761023,Books of Blood: Volume One (Books of Blood #1)
+H.P. Lovecraft,32769,At the Mountains of Madness and Other Tales of Terror
+H.P. Lovecraft,15730101,The Call of Cthulhu
+Clive Barker,32628,The Great and Secret Show (Book of the Art #1)
+Anne Rice,31340,"Lasher (Lives of the Mayfair Witches, #2)"
+Robert Kirkman,138396,"The Walking Dead, Vol. 02: Miles Behind Us"
+Joe Hill,72028413,"Locke & Key, Vol. 3: Crown of Shadows"
+Brian Lumley,66655,"Necroscope (Necroscope, #1)"
+Iain Banks,567678,The Wasp Factory
+Kendare Blake,12507214,"Girl of Nightmares (Anna, #2)"
+Joe Hill,96743354,"Locke & Key, Vol. 4: Keys to the Kingdom"
+Anne Rice,43782,The Mummy (Ramses the Damned #1)
+Jennifer McMahon,18007535,The Winter People
+Clive Barker,52640,Weaveworld
+Robert Kirkman,30069,"The Walking Dead, Vol. 03: Safety Behind Bars"
+Mira Grant,8429687,"Deadline (Newsflesh Trilogy, #2)"
+Adam Nevill,10239382,The Ritual
+Anne Rice,119091,"Taltos (Lives of the Mayfair Witches, #3)"
+Edgar Allan Poe,206172,The Pit and the Pendulum
+Stephen King,5413,'Salem's Lot
+Joe Hill,134905705,"Locke & Key, Vol. 5: Clockworks"
+Poppy Z. Brite,452244,Lost Souls
+Lauren Beukes,23341578,Broken Monsters
+Jonathan Maberry,7157310,"Rot & Ruin (Rot & Ruin, #1)"
+Dean Koontz,21337,"Prodigal Son (Dean Koontz's Frankenstein, #1)"
+Neil Gaiman,23754,Preludes & Nocturnes (The Sandman #1)
+Peter Clines,1506221714,14
+Thomas Olde Heuvelt,25533076,Hex
+David Seltzer,226162,The Omen
+Stephen King,11563,Danse Macabre
+Laurell K. Hamilton,30281,"Guilty Pleasures (Anita Blake, Vampire Hunter, #1)"
+Edgar Allan Poe,175516,The Fall of the House of Usher
+Emily Carroll,18659623,Through the Woods
+Jonathan Maberry,3993839,"Patient Zero (Joe Ledger, #1)"
+Scott Sigler,2331954,"Infected (Infected, #1)"
+Christina Henry,23398606,"Alice (The Chronicles of Alice, #1)"
+Dean Koontz,16434,The Taking
+James Herbert,397867,"The Rats (Rats, #1)"
+H.P. Lovecraft,129327,The Case of Charles Dexter Ward
+Robert Kirkman,138397,"The Walking Dead, Vol. 04: The Heart's Desire"
+Dean Koontz,32430,The Bad Place
+Edgar Allan Poe,261240,The Cask of Amontillado
+Joe Hill,161642716,"Locke & Key, Vol. 6: Alpha & Omega"
+Darren Shan,8962,"A Living Nightmare (Cirque Du Freak, #1)"
+Thomas Harris,32416,"Hannibal Rising (Hannibal Lecter, #4)"
+David Wong,12924261,"This Book Is Full of Spiders: Seriously, Dude, Don't Touch It (John Dies at the End, #2)"
+Edgar Allan Poe,264158,The Raven
+F. Paul Wilson,62571,"The Keep (Adversary Cycle, #1)"
+James Herbert,397860,The Fog
+Shirley Jackson,89723,The Lottery and Other Stories
+Scott Snyder,252437351,"Wytches, Volume 1"
+Dean Koontz,281433,Tick Tock
+Rin Chupeco,18509623,"The Girl from the Well (The Girl from the Well, #1)"
+Edgar Allan Poe,899492,The Tell-Tale Heart
+Dean Koontz,64955,Midnight
+John Ajvide Lindqvist,4328472,Handling the Undead
+Dean Koontz,32422,Hideaway
+Clive Barker,1011632,Mister B. Gone
+Nick Cutter,21412284,The Deep
+Stephen King,23492589,"Finders Keepers (Bill Hodges Trilogy, #2)"
+Megan Shepherd,12291438,"The Madman’s Daughter (The Madman’s Daughter, #1)"
+Ira Levin,52350,The Stepford Wives
+H.P. Lovecraft,1335019,Necronomicon: The Best Weird Tales
+Shirley Jackson,6219656,The Lottery
+Robert Kirkman,30065,"The Walking Dead, Vol. 05: The Best Defense"
+Kim Newman,8970727,"Anno Dracula (Anno Dracula, #1)"
+Scott Snyder,76193981,"American Vampire, Vol. 1"
+Alden Bell,8051458,"The Reapers are the Angels (Reapers, #1)"
+Anne Rice,31341,"Blood And Gold (The Vampire Chronicles, #8)"
+Dean Koontz,693172,Twilight Eyes
+Scott  Hawkins,26892110,The Library at Mount Char
+Jack Ketchum,179734,"Off Season (Dead River, #1)"
+Robert Kirkman,138395,"The Walking Dead, Vol. 06: This Sorrowful Life"
+Mira Grant,11806716,"Blackout (Newsflesh Trilogy, #3)"
+Richard Bachman,66370,Rage
+Poppy Z. Brite,15320,Exquisite Corpse
+Holly Black,12813630,The Coldest Girl in Coldtown
+Neil Gaiman,22522808,Trigger Warning: Short Fictions and Disturbances
+Richard Bachman,349473,Blaze
+Anne Rice,31337,"Blackwood Farm (The Vampire Chronicles, #9)"
+Dean Koontz,64948,Whispers
+Justin Cronin,26891429,"The City of Mirrors (The Passage, #3)"
+Sarah Waters,7234875,The Little Stranger
+Robert Kirkman,1085771,"The Walking Dead, Vol. 07: The Calm Before"
+Jonathan Maberry,125965,"Ghost Road Blues (Pine Deep, #1)"
+Matthew      Lewis,93157,The Monk
+Stephen King,102733,One Past Midnight: The Langoliers
+Poppy Z. Brite,47588,Drawing Blood
+Victor LaValle,26883558,The Ballad of Black Tom
+Robert Kirkman,1894269,"The Walking Dead, Vol. 08: Made to Suffer"
+Robert McCammon,11553,Boy's Life
+Robert Louis Stevenson,51497,The Strange Case of Dr. Jekyll and Mr. Hyde and Other Tales of Terror
+Angela Carter,49011,The Bloody Chamber and Other Stories
+Peter Straub,19580,Shadowland
+Grady Hendrix,26118005,My Best Friend's Exorcism
+Algernon Blackwood,1335601,The Willows
+Robert Kirkman,471412609,"The Walking Dead, Vol. 09: Here We Remain"
+Jack Kilborn,5122520,Afraid
+Cherie Priest,20821288,"Maplecroft (The Borden Dispatches, #1)"
+Dean Koontz,32442,Cold Fire
+Clive Barker,567704,Imajica
+Dean Koontz,32432,"Fear Nothing (Moonlight Bay, #1)"
+Dean Koontz,182425,False Memory
+Junji Ito,25152,"Uzumaki, Vol. 1"
+Richard Matheson,33553,A Stir of Echoes
+Ania Ahlborn,11422798,Seed
+Arthur Machen,774846,The Great God Pan
+Brian Keene,216213,The Rising (The Rising #1)
+Colson Whitehead,10365343,Zone One
+Robert W. Chambers,129798,The King in Yellow and Other Horror Stories
+Edgar Allan Poe,132314,The Complete Tales and Poems
+Karina Halle,11356211,"Darkhouse (Experiment in Terror, #1)"
+Robert Kirkman,30071,"The Walking Dead, Book One (The Walking Dead #1-12)"
+Dean Koontz,21340,"City of Night (Dean Koontz's Frankenstein, #2)"
+Dathan Auerbach,14578407,Penpal
+Robert Kirkman,10869746,Rise of the Governor (The Walking Dead #1)
+Anne Rice,43805,Servant of the Bones
+Robert Kirkman,648848311,"The Walking Dead, Vol. 11: Fear the Hunters"
+Stephen King,12341557,"The Wind Through the Keyhole (The Dark Tower, #4.5)"
+Darren Shan,164719,"Lord Loss (The Demonata, #1)"
+Edgar Allan Poe,391724,The Black Cat
+Glen Duncan,9532302,"The Last Werewolf (The Last Werewolf, #1)"
+Stephen King,15825932,In the Tall Grass
+Anne Rice,31342,"Vittorio, The Vampire (New Tales of the Vampires, #2)"
+Courtney Summers,12043771,This is Not a Test (This is Not a Test #1)
+Scott B. Smith,21726,The Ruins
+Alan Moore,23529,From Hell
+Matt Ruff,25109947,Lovecraft Country
+Robert Kirkman,901837013,"The Walking Dead, Vol. 13: Too Far Gone"
+Dean Koontz,32429,Dragon Tears
+Robert Kirkman,746966412,"The Walking Dead, Vol. 12: Life Among Them"
+Dean Koontz,1116689077,"77 Shadow Street (Pendleton, #1)"
+Laurell K. Hamilton,30274,"Circus of the Damned (Anita Blake, Vampire Hunter, #3)"
+Dawn Kurtagich,22396591,The Dead House
+Sergei Lukyanenko,359375,Night Watch (Watch #1)
+Neil Gaiman,25099,The Doll's House (The Sandman #2)
+David Moody,6739080,"Hater (Hater, #1)"
+Clive Barker,108051,Coldheart Canyon
+Brenna Yovanoff,7507908,The Replacement
+Richard Bachman,10577,Roadwork
+Charlie Higson,8540357,"The Enemy (The Enemy, #1)"
+Richard Laymon,145152,The Cellar
+Dean Koontz,65948,From the Corner of His Eye
+Robert McCammon,462658,They Thirst
+Alvin Schwartz,413110,"More Scary Stories to Tell in the Dark (Scary Stories, #2)"
+Joseph Fink,23129410,Welcome to Night Vale
+Clive Barker,291950,Books of Blood: Volume Two (Books of Blood #2)
+Brandon Sanderson,68428,"The Final Empire (Mistborn, #1)"
+Robert Jordan,228665,"The Eye of the World (Wheel of Time, #1)"
+Patrick Rothfuss,1215032,"The Wise Man's Fear (The Kingkiller Chronicle, #2)"
+Kristin Cashore,3236307,"Graceling (Graceling Realm, #1)"
+Rick Riordan,28186,"The Sea of Monsters (Percy Jackson and the Olympians, #2)"
+Scott Lynch,127455,"The Lies of Locke Lamora (Gentleman Bastard, #1)"
+Brandon Sanderson,68429,"The Well of Ascension (Mistborn, #2)"
+Rick Riordan,561456,"The Titan's Curse (Percy Jackson and the Olympians, #3)"
+Cassandra Clare,1582996,"City of Ashes (The Mortal Instruments, #2)"
+Rick Riordan,2120932,"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)"
+Laini Taylor,8490112,"Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)"
+Brandon Sanderson,7235533,"The Way of Kings (The Stormlight Archive, #1)"
+Christopher Paolini,2248573,"Brisingr (The Inheritance Cycle, #3)"
+Robert Jordan,233649,"The Great Hunt (Wheel of Time, #2)"
+Rick Riordan,4556058,"The Last Olympian (Percy Jackson and the Olympians, #5)"
+Cassandra Clare,3777732,"City of Glass (The Mortal Instruments, #3)"
+Naomi Novik,22544764,Uprooted
+Robert Jordan,34897,"The Dragon Reborn (Wheel of Time, #3)"
+Sarah J. Maas,16096824,"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)"
+Terry Goodkind,43889,"Wizard's First Rule (Sword of Truth, #1)"
+Eoin Colfer,249747,"Artemis Fowl (Artemis Fowl, #1)"
+V.E. Schwab,22055262,"A Darker Shade of Magic (Shades of Magic, #1)"
+Cassandra Clare,7171637,"Clockwork Angel (The Infernal Devices, #1)"
+Marion Zimmer Bradley,402045,"The Mists of Avalon (Avalon, #1)"
+Robert Jordan,9539,"The Shadow Rising (Wheel of Time, #4)"
+Leigh Bardugo,23437156,"Six of Crows (Six of Crows, #1)"
+Joe Abercrombie,944073,"The Blade Itself (The First Law, #1)"
+Terry Pratchett,386372,"Mort (Death, #1; Discworld, #4)"
+Robert Jordan,13895,"The Fires of Heaven (Wheel of Time, #5)"
+Robin Hobb,25300956,"Royal Assassin (Farseer Trilogy, #2)"
+Kristin Cashore,6137154,"Fire (Graceling Realm, #2)"
+Christopher Paolini,7664041,"Inheritance (The Inheritance Cycle, #4)"
+Cassandra Clare,6752378,"City of Fallen Angels (The Mortal Instruments, #4)"
+Robert Jordan,35231,"Lord of Chaos (Wheel of Time, #6)"
+Gail Carson Levine,24337,Ella Enchanted
+Terry Pratchett,34506,"The Light Fantastic (Discworld, #2; Rincewind #2)"
+Sarah J. Maas,20613470,"Heir of Fire (Throne of Glass, #3)"
+Robert Jordan,13890,"A Crown of Swords (Wheel of Time, #7)"
+Maggie Stiefvater,17675462,"The Raven Boys (The Raven Cycle, #1)"
+Brent Weeks,3227063,"The Way of Shadows (Night Angel, #1)"
+Deborah Harkness,8667848,"A Discovery of Witches (All Souls Trilogy, #1)"
+Tamora Pierce,13831,"Alanna: The First Adventure (Song of the Lioness, #1)"
+Robert Jordan,140974,"The Path of Daggers (Wheel of Time, #8)"
+Rachel Hartman,19549841,"Seraphina (Seraphina, #1)"
+Naomi Novik,28876,"His Majesty's Dragon (Temeraire, #1)"
+Sabaa Tahir,27774758,"An Ember in the Ashes (An Ember in the Ashes, #1)"
+Sarah J. Maas,17927395,"A Court of Mist and Fury (A Court of Thorns and Roses, #2)"
+Robert Jordan,13891,"Winter's Heart (Wheel of Time, #9)"
+Rick Riordan,9520360,"The Son of Neptune (The Heroes of Olympus, #2)"
+Terry Brooks,15575,"The Sword of Shannara (The Original Shannara Trilogy, #1)"
+David Eddings,44659,"Pawn of Prophecy (The Belgariad, #1)"
+Cassandra Clare,8755776,"City of Lost Souls (The Mortal Instruments, #5)"
+Brandon Sanderson,17332218,"Words of Radiance (The Stormlight Archive, #2)"
+Brandon Sanderson,10803121,"The Alloy of Law (Mistborn, #4)"
+Cassandra Clare,10025305,"Clockwork Prince (The Infernal Devices, #2)"
+Sarah J. Maas,18006496,"Queen of Shadows (Throne of Glass, #4)"
+Scott Lynch,887877,"Red Seas Under Red Skies (Gentleman Bastard, #2)"
+Leigh Bardugo,14061955,"Siege and Storm (Shadow and Bone, #2)"
+Michael Ende,27712,The Neverending Story
+Laini Taylor,12812550,"Days of Blood & Starlight (Daughter of Smoke & Bone, #2)"
+Jonathan Stroud,334123,"The Amulet of Samarkand (Bartimaeus, #1)"
+Jim Butcher,29396,"Furies of Calderon (Codex Alera, #1)"
+Peter V. Brett,3428935,"The Warded Man (Demon Cycle, #1)"
+Robert Jordan,13888,"Knife of Dreams (Wheel of Time, #11)"
+Jacqueline Carey,153008,"Kushiel's Dart (Phèdre's Trilogy, #1)"
+Robert Jordan,1166599,"The Gathering Storm (Wheel of Time, #12)"
+Cassandra Clare,18335634,"Clockwork Princess (The Infernal Devices, #3)"
+Kristin Cashore,12680907,"Bitterblue (Graceling Realm, #3)"
+Brandon Sanderson,1268479,"Warbreaker (Warbreaker, #1)"
+Garth Nix,47624,"Lirael (Abhorsen, #2)"
+N.K. Jemisin,6437061,"The Hundred Thousand Kingdoms (Inheritance Trilogy, #1)"
+Rick Riordan,12127750,"The Mark of Athena (The Heroes of Olympus, #3)"
+Terry Goodkind,234184,"Stone of Tears (Sword of Truth, #2)"
+Kennilworthy Whisp,111450,Quidditch Through the Ages
+Mark  Lawrence,9579634,"Prince of Thorns (The Broken Empire, #1)"
+Kami Garcia,6304335,"Beautiful Creatures (Caster Chronicles, #1)"
+Ursula K. Le Guin,13662,"The Tombs of Atuan (Earthsea Cycle, #2)"
+Joe Abercrombie,902715,"Before They Are Hanged (The First Law, #2)"
+Leigh Bardugo,10194157,"Shadow and Bone (Shadow and Bone, #1)"
+Rick Riordan,7090447,"The Red Pyramid (Kane Chronicles, #1)"
+Helene Wecker,15819028,"The Golem and the Jinni (The Golem and the Jinni, #1)"
+Terry Pratchett,34499,"Sourcery (Discworld, #5; Rincewind #3)"
+Terry Pratchett,64222,"Going Postal (Discworld, #33; Moist von Lipwig, #1)"
+Terry Pratchett,34517,"Reaper Man (Discworld, #11; Death, #2)"
+Robert Jordan,8253920,"Towers of Midnight (Wheel of Time, #13)"
+Garth Nix,334643,"Abhorsen (Abhorsen, #3)"
+David Eddings,44688,"Magician's Gambit (The Belgariad, #3)"
+Erika Johansen,18712886,"The Queen of the Tearling (The Queen of the Tearling, #1)"
+Terry Pratchett,34532,"Hogfather (Discworld, #20; Death, #4)"
+Megan Whalen Turner,448873,"The Thief (The Queen's Thief, #1)"
+Cassandra Clare,8755785,"City of Heavenly Fire (The Mortal Instruments, #6)"
+David Eddings,587582,"Queen of Sorcery (The Belgariad, #2)"
+Patricia C. Wrede,150739,"Dealing with Dragons (Enchanted Forest Chronicles, #1)"
+Victoria Aveyard,22328546,"Red Queen (Red Queen, #1)"
+Joe Abercrombie,944076,"Last Argument of Kings (The First Law, #3)"
+Tamora Pierce,13835,"In the Hand of the Goddess (Song of the Lioness, #2)"
+Patrick Rothfuss,21535271,The Slow Regard of Silent Things (The Kingkiller Chronicle #2.5)
+Juliet Marillier,13928,"Daughter of the Forest  (Sevenwaters, #1)"
+Brent Weeks,7165300,"The Black Prism (Lightbringer, #1)"
+Andrzej Sapkowski,1128434,The Last Wish
+J.R.R. Tolkien,597790,The Children of Húrin
+David Eddings,44687,"Enchanters' End Game (The Belgariad, #5)"
+Renee Ahdieh,18798983,"The Wrath and the Dawn (The Wrath and the Dawn, #1)"
+Terry Pratchett,400354,"Men at Arms (Discworld, #15; City Watch #2)"
+David Eddings,645023,"Castle of Wizardry (The Belgariad, #4)"
+Robin Hobb,45100,"Ship of Magic (Liveship Traders, #1)"
+Rick Riordan,12127810,"The House of Hades (The Heroes of Olympus, #4)"
+Terry Goodkind,43892,"Blood of the Fold (Sword of Truth, #3)"
+Leigh Bardugo,22299763,"Crooked Kingdom (Six of Crows, #2)"
+Ursula K. Le Guin,13667,"The Farthest Shore (Earthsea Cycle, #3)"
+Terry Pratchett,2442,"Witches Abroad (Discworld, #12; Witches #3)"
+Lloyd Alexander,24780,"The Book of Three (The Chronicles of Prydain, #1)"
+Robin Hobb,68488,"Fool's Errand (Tawny Man, #1)"
+Robert Jordan,7743175,"A Memory of Light (Wheel of Time, #14)"
+Maggie Stiefvater,17347389,"The Dream Thieves (The Raven Cycle, #2)"
+Terry Pratchett,34527,"Feet of Clay (Discworld, #19; City Watch, #3)"
+Laini Taylor,13618440,"Dreams of Gods & Monsters (Daughter of Smoke & Bone, #3)"
+Terry Pratchett,34502,"Soul Music (Discworld, #16; Death, #3)"
+Brian Jacques,7996,"Redwall (Redwall, #1)"
+Marie Rutkoski,16069030,"The Winner's Curse (The Winner's Trilogy, #1)"
+Melina Marchetta,4932435,"Finnikin of the Rock (Lumatere Chronicles, #1)"
+Eoin Colfer,114955,"The Arctic Incident (Artemis Fowl, #2)"
+Tamora Pierce,13837,"Lioness Rampant (Song of the Lioness, #4)"
+Guy Gavriel Kay,104089,Tigana
+Robin McKinley,407813,"The Blue Sword (Damar, #1)"
+Robin LaFevers,9565548,"Grave Mercy (His Fair Assassin, #1)"
+Scott Lynch,2890090,"The Republic of Thieves (Gentleman Bastard, #3)"
+J.K. Rowling,2,"Harry Potter and the Order of the Phoenix (Harry Potter, #5)"
+Tamora Pierce,13836,"Wild Magic (Immortals, #1)"
+Terry Goodkind,253058,"Temple of the Winds (Sword of Truth, #4)"
+Brent Weeks,3754016,"Shadow's Edge (Night Angel, #2)"
+N.K. Jemisin,19161852,"The Fifth Season (The Broken Earth, #1)"
+Becca Fitzpatrick,6339664,"Hush, Hush (Hush, Hush, #1)"
+Sarah J. Maas,28260587,"Empire of Storms (Throne of Glass, #5)"
+Jim Butcher,91479,"Death Masks (The Dresden Files, #5)"
+Cinda Williams Chima,6342491,"The Demon King (Seven Realms, #1)"
+Terry Pratchett,62530,"Thud! (Discworld, #34; City Watch #7)"
+Terry Pratchett,34529,"Lords and Ladies (Discworld, #14; Witches #4)"
+Gail Carriger,6381205,"Soulless (Parasol Protectorate, #1)"
+Robert Jordan,187065,"New Spring (Wheel of Time, #0)"
+Alison Goodman,2986865,"Eon: Dragoneye Reborn (Eon, #1)"
+Sarah J. Maas,23766634,"A Court of Wings and Ruin (A Court of Thorns and Roses, #3)"
+Terry Pratchett,48002,"Thief of Time (Discworld, #26; Death, #5)"
+Maggie Stiefvater,10626594,The Scorpio Races
+Rosamund Hodge,15839984,"Cruel Beauty (Cruel Beauty Universe, #1)"
+Robin Hobb,45109,"Golden Fool (Tawny Man, #2)"
+Susan Ee,15863832,"Angelfall (Penryn & the End of Days, #1)"
+Angie Sage,769483,"Magyk (Septimus Heap, #1)"
+Brent Weeks,3754026,"Beyond the Shadows (Night Angel, #3)"
+Catherynne M. Valente,9591398,"The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making (Fairyland, #1)"
+Rick Riordan,18705209,"The Blood of Olympus (The Heroes of Olympus, #5)"
+Eoin Colfer,227865,"The Eternity Code (Artemis Fowl, #3)"
+Morgan Rhodes,12954620,"Falling Kingdoms (Falling Kingdoms, #1)"
+Maria V. Snyder,1966969,"Fire Study (Study, #3)"
+Shannon Hale,179064,"The Goose Girl (The Books of Bayern, #1)"
+Terry Pratchett,78876,"Maskerade (Discworld, #18; Witches #5)"
+Joe Abercrombie,18666047,"Half a King (Shattered Sea, #1)"
+Terry Pratchett,34541,Carpe Jugulum (Discworld #23; Witches #6)
+Lauren Kate,6487308,"Fallen (Fallen, #1)"
+Jim Butcher,17683,"Dead Beat (The Dresden Files, #7)"
+Maggie Stiefvater,17378508,"Blue Lily, Lily Blue (The Raven Cycle, #3)"
+Melissa Marr,305234,"Wicked Lovely (Wicked Lovely, #1)"
+Raymond E. Feist,149302,"Silverthorn (The Riftwar Saga, #3)"
+Terry Goodkind,121127,"Faith of the Fallen (Sword of Truth, #6)"
+Mary E. Pearson,16429619,"The Kiss of Deception (The Remnant Chronicles, #1)"
+David Eddings,673657,"Guardians of the West (The Malloreon, #1)"
+Brandon Sanderson,13578175,The Emperor's Soul
+Robin Hobb,45101,"The Mad Ship (Liveship Traders, #2)"
+Michael J. Sullivan,10790290,"Theft of Swords (The Riyria Revelations, #1-2)"
+Jim Butcher,133664,"Academ's Fury (Codex Alera, #2)"
+Sara Raasch,17399160,"Snow Like Ashes (Snow Like Ashes, #1)"
+Sarah J. Maas,18243700,"The Assassin's Blade (Throne of Glass, #0.1-0.5)"
+Lois McMaster Bujold,61886,"The Curse of Chalion (World of the Five Gods, #1)"
+Brandon Sanderson,22443261,"The Rithmatist (The Rithmatist, #1)"
+Trudi Canavan,28250,"The Novice (Black Magician Trilogy, #2)"
+John Connolly,69136,The Book of Lost Things
+Terry Pratchett,34492,"Wintersmith (Discworld, #35; Tiffany Aching, #3)"
+Jim Butcher,91475,"White Night (The Dresden Files, #9)"
+Tamora Pierce,153784,"First Test (Protector of the Small, #1)"
+Jonathan Stroud,59263,"The Golem's Eye (Bartimaeus, #2)"
+Norton Juster,378,The Phantom Tollbooth
+Terry Pratchett,47994,"The Last Continent (Discworld, #22; Rincewind #6)"
+Terry Pratchett,34504,"Wyrd Sisters (Discworld, #6; Witches #2)"
+Margaret Weis,23454,"Dragons of Winter Night (Dragonlance: Chronicles, #2)"
+Trudi Canavan,28251,"The High Lord (Black Magician Trilogy, #3)"
+Brandon Sanderson,16065004,"Shadows of Self (Mistborn, #5)"
+China Miéville,68494,"Perdido Street Station (Bas-Lag, #1)"
+Raymond E. Feist,13813,"A Darkness At Sethanon (The Riftwar Saga, #4)"
+David Eddings,189811,"King of the Murgos (The Malloreon, #2)"
+Terry Brooks,15567,"The Wishsong of Shannara (The Original Shannara Trilogy, #3)"
+Tamora Pierce,24431,"Trickster's Choice (Daughter of the Lioness, #1)"
+Terry Pratchett,34507,"Equal Rites (Discworld, #3; Witches #1)"
+Anne Bishop,47956,Daughter of the Blood (The Black Jewels #1)
+Patricia Briggs,71811,"Moon Called (Mercy Thompson, #1)"
+Neil Gaiman,16790,Smoke and Mirrors: Short Fiction and Illusions
+Kevin Hearne,9533378,"Hounded (The Iron Druid Chronicles, #1)"
+Terry Pratchett,8785374,"Snuff (Discworld, #39; City Watch #8)"
+Tamora Pierce,24094,"Wolf-Speaker (Immortals, #2)"
+Tamora Pierce,13833,"Emperor Mage (Immortals, #3)"
+David Eddings,371787,"Sorceress of Darshiva (The Malloreon, #4)"
+Karen Marie Moning,112750,"Darkfever (Fever, #1)"
+Roger Zelazny,92121,Nine Princes in Amber (The Chronicles of Amber #1)
+David Eddings,286507,"Demon Lord of Karanda (The Malloreon, #3)"
+Leigh Bardugo,14061957,"Ruin and Rising (Shadow and Bone, #3)"
+David Eddings,110694,"The Seeress of Kell (The Malloreon, #5)"
+Jim Butcher,3475161,"Turn Coat (The Dresden Files, #11)"
+Tamora Pierce,13829,"Terrier (Beka Cooper, #1)"
+Neil Gaiman,16788,Fragile Things: Short Fictions and Wonders
+Peter V. Brett,6736971,"The Desert Spear (Demon Cycle, #2)"
+Rick Riordan,9067850,"The Throne of Fire (Kane Chronicles, #2)"
+Lloyd Alexander,24784,The Black Cauldron (The Chronicles of Prydain #2)
+Richelle Mead,2282133,"Frostbite (Vampire Academy, #2)"
+Stephen R. Donaldson,219205,"Lord Foul's Bane (The Chronicles of Thomas Covenant the Unbeliever, #1)"
+Jim Butcher,346087,"Captain's Fury (Codex Alera, #4)"
+George R.R. Martin,147915,"A Storm of Swords: Blood and Gold (A Song of Ice and Fire, #3: Part 2 of 2)"
+Maggie Stiefvater,17378527,"The Raven King (The Raven Cycle, #4)"
+Victoria Aveyard,23174274,"Glass Sword (Red Queen, #2)"
+Raymond E. Feist,13810,"Magician: Master (The Riftwar Saga, #2)"
+Maria V. Snyder,60510,"Poison Study (Study, #1)"
+Anne McCaffrey,28541,"Dragonsong (Harper Hall, #1)"
+Kristen Britain,147843,"Green Rider (Green Rider, #1)"
+P.C. Cast,30183,"Marked (House of Night, #1)"
+Shannon Hale,85990,"Princess Academy (Princess Academy, #1)"
+Gayle Forman,4374400,"If I Stay (If I Stay, #1)"
+Kiera Cass,10507293,"The Selection (The Selection, #1)"
+John Green,49750,An Abundance of Katherines
+Sarah J. Maas,7896527,"Throne of Glass (Throne of Glass, #1)"
+Stephanie Perkins,6936382,"Anna and the French Kiss (Anna and the French Kiss, #1)"
+John Green,6567017,"Will Grayson, Will Grayson"
+Ann Brashares,452306,"The Sisterhood of the Traveling Pants (Sisterhood, #1)"
+Lauren Oliver,6482837,Before I Fall
+Richelle Mead,2802316,"Shadow Kiss (Vampire Academy, #3)"
+Tahereh Mafi,10429045,"Shatter Me (Shatter Me, #1)"
+Ally Condie,15812814,"Crossed (Matched, #2)"
+Jay Asher,29844228,Thirteen Reasons Why
+Kiera Cass,18635016,"The One (The Selection, #3)"
+Gayle Forman,8492825,"Where She Went (If I Stay, #2)"
+Richelle Mead,5996153,"Blood Promise (Vampire Academy, #4)"
+Nicola Yoon,18692431,"Everything, Everything"
+Jerry Spinelli,22232,"Stargirl (Stargirl, #1)"
+Stephanie Perkins,9961796,"Lola and the Boy Next Door (Anna and the French Kiss, #2)"
+Richelle Mead,6527740,"Last Sacrifice (Vampire Academy, #6)"
+Jandy Nelson,20820994,I'll Give You the Sun
+Jennifer L. Armentrout,12578077,"Obsidian (Lux, #1)"
+Sarah Dessen,51737,The Truth About Forever
+Elizabeth Wein,11925514,"Code Name Verity (Code Name Verity, #1)"
+Garth Nix,518848,"Sabriel (Abhorsen,  #1)"
+Maggie Stiefvater,6068551,"Shiver (The Wolves of Mercy Falls, #1)"
+Cornelia Funke,28194,"Inkheart (Inkworld, #1)"
+Meg Cabot,38980,"The Princess Diaries (The Princess Diaries, #1)"
+Sarah Dessen,51738,Just Listen
+Simone Elkeles,4268157,"Perfect Chemistry (Perfect Chemistry, #1)"
+Alyson Noel,3975774,"Evermore (The Immortals, #1)"
+Rachel Hawkins,5287473,"Hex Hall (Hex Hall, #1)"
+Veronica Rossi,11594257,"Under the Never Sky (Under the Never Sky, #1)"
+Becky Albertalli,19547856,Simon vs. the Homo Sapiens Agenda
+Becca Fitzpatrick,7791997,"Crescendo (Hush, Hush, #2)"
+Ruta Sepetys,7824322,Between Shades of Gray
+Kody Keplinger,6931356,The DUFF: Designated Ugly Fat Friend
+Laurie Halse Anderson,5152478,Wintergirls
+Kelley Armstrong,2800905,"The Summoning (Darkest Powers, #1)"
+Michael  Grant,2536134,"Gone (Gone, #1)"
+Lauren DeStefano,8525590,"Wither (The Chemical Garden, #1)"
+Stephenie Meyer,7937462,"The Short Second Life of Bree Tanner: An Eclipse Novella (Twilight, #3.5)"
+Alex Flinn,544891,"Beastly (Beastly, #1; Kendra Chronicles, #1)"
+Libba Bray,51428,"Rebel Angels (Gemma Doyle, #2)"
+P.C. Cast,1326258,"Chosen (House of Night, #3)"
+Lauren Oliver,9593913,"Requiem (Delirium, #3)"
+Katherine Paterson,2839,Bridge to Terabithia
+Ned Vizzini,248704,It's Kind of a Funny Story
+Susan Beth Pfeffer,213753,"Life As We Knew It (Last Survivors, #1)"
+Stephanie Perkins,9627755,"Isla and the Happily Ever After (Anna and the French Kiss, #3)"
+Jennifer E. Smith,10798416,The Statistical Probability of Love at First Sight
+Cynthia Hand,7488244,"Unearthly (Unearthly, #1)"
+Richelle Mead,8709527,"Bloodlines (Bloodlines, #1)"
+Sarah Dessen,22205,This Lullaby
+Maggie Stiefvater,9409458,"Forever (The Wolves of Mercy Falls, #3)"
+Kerstin Gier,6325285,"Rubinrot (Edelstein-Trilogie, #1)"
+Angie Thomas,32075671,The Hate U Give
+Jesse Andrews,12700353,Me and Earl and the Dying Girl
+Ann Brashares,5454,"The Second Summer of the Sisterhood (Sisterhood, #2)"
+P.C. Cast,2866718,"Untamed (House of Night, #4)"
+Gary Paulsen,50,"Hatchet (Brian's Saga, #1)"
+Scott Westerfeld,493456,"Extras (Uglies, #4)"
+Marie Lu,14290364,"Champion (Legend, #3)"
+Sarah Dessen,1295102,Lock and Key
+Scott O'Dell,233818,"Island of the Blue Dolphins (Island of the Blue Dolphins, #1)"
+Ally Carter,852470,"I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)"
+Lauren Kate,7740152,"Torment (Fallen, #2)"
+James Patterson,13152,"The Angel Experiment (Maximum Ride, #1)"
+Louise Rennison,402013,"Angus, Thongs and Full-Frontal Snogging (Confessions of Georgia Nicolson, #1)"
+Stephenie Meyer,4502877,"Midnight Sun (Twilight, #1.5)"
+Melissa de la Cruz,872333,"Blue Bloods (Blue Bloods, #1)"
+Kiera Cass,16248068,"The Elite (The Selection, #2)"
+Huntley Fitzpatrick,12294652,My Life Next Door
+E. Lockhart,1629601,The Disreputable History of Frankie Landau-Banks
+Kami Garcia,7842288,"Beautiful Darkness (Caster Chronicles, #2)"
+Katie McGarry,10194514,"Pushing the Limits (Pushing the Limits, #1)"
+Jandy Nelson,6604794,The Sky Is Everywhere
+Jennifer L. Armentrout,13047090,"Onyx (Lux, #2)"
+Richelle Mead,6479259,"Spirit Bound (Vampire Academy, #5)"
+Holly Black,46777,"Tithe (Modern Faerie Tales, #1)"
+Rachel Cohn,25373,Nick & Norah's Infinite Playlist
+Libba Bray,127459,"The Sweet Far Thing (Gemma Doyle, #3)"
+P.C. Cast,4134071,"Hunted (House of Night, #5)"
+Libba Bray,9464733,Beauty Queens
+Judy Blume,37732,"Are You There God? It's Me, Margaret"
+Julie Kagawa,7747064,The Iron Daughter
+Becca Fitzpatrick,10637766,"Silence (Hush, Hush, #3)"
+Morgan Matson,7664334,Amy & Roger's Epic Detour
+Scott Westerfeld,24768,"Pretties (Uglies, #2)"
+Kiersten White,7719245,"Paranormalcy (Paranormalcy, #1)"
+John Boyne,39999,The Boy in the Striped Pajamas
+Nicola Yoon,28763485,The Sun Is Also a Star
+Ann Brashares,5452,"Girls in Pants: The Third Summer of the Sisterhood (Sisterhood, #3)"
+Jenny Han,5821978,"The Summer I Turned Pretty (Summer, #1)"
+Michael Scott,17402605,"The Alchemyst (The Secrets of the Immortal Nicholas Flamel, #1)"
+Jennifer Niven,18460392,All the Bright Places
+Lois Lowry,12930,"Messenger (The Giver, #3)"
+Rainbow Rowell,32768522,Carry On
+Moira Young,9917938,"Blood Red Road (Dust Lands, #1)"
+Jamie McGuire,11505797,"Beautiful Disaster (Beautiful, #1)"
+Sylvia Day,20448515,"Bared to You (Crossfire, #1)"
+Tammara Webber,16056408,"Easy (Contours of the Heart, #1)"
+J.R. Ward,42899,"Dark Lover (Black Dagger Brotherhood, #1)"
+Nicholas Sparks,5526,Dear John
+Lauren Oliver,11614718,"Delirium (Delirium, #1)"
+Colleen Hoover,15717943,"Hopeless (Hopeless, #1)"
+Diana Gabaldon,5364,"Dragonfly in Amber (Outlander, #2)"
+Nicholas Sparks,6400090,The Last Song
+Sylvia Day,13596809,"Reflected in You (Crossfire, #2)"
+Julia Quinn,110391,"The Duke and I (Bridgertons, #1)"
+Rainbow Rowell,8909152,Attachments
+Nicholas Sparks,3063499,The Lucky One
+Nicholas Sparks,7812659,Safe Haven
+J.R. Ward,35729,"Lover Eternal (Black Dagger Brotherhood, #2)"
+Diana Gabaldon,10987,"Voyager (Outlander, #3)"
+Colleen Hoover,24445517,"Maybe Someday (Maybe, #1)"
+Lisa Kleypas,114166,"Devil in Winter (Wallflowers, #3)"
+Emma Chase,18297707,"Tangled (Tangled, #1)"
+J. Lynn,17314430,"Wait for You (Wait for You, #1)"
+Jamie McGuire,15745950,"Walking Disaster (Beautiful, #2)"
+Jennifer Crusie,854757,Bet Me
+Elle Kennedy,24920901,"The Deal (Off-Campus, #1)"
+Sylvain Reynard,10140661,"Gabriel's Inferno (Gabriel's Inferno, #1)"
+R.L. Mathewson,11381643,"Playing for Keeps (Neighbor from Hell, #1)"
+J.A. Redmerski,16081272,"The Edge of Never (The Edge of Never, #1)"
+Abbi Glines,16070903,"Fallen Too Far (Rosemary Beach, #1; Too Far, #1)"
+Lisa Kleypas,114162,"Secrets of a Summer Night (Wallflowers, #1)"
+Cecelia Ahern,366522,P.S. I Love You
+Christina Lauren,16102004,"Beautiful Bastard (Beautiful Bastard, #1)"
+J.R. Ward,42898,"Lover Revealed (Black Dagger Brotherhood, #4)"
+Sophie Kinsella,33724,Can You Keep a Secret?
+Colleen Hoover,34324605,Confess
+Nicholas Sparks,3478,Message in a Bottle
+Julia Quinn,110384,"Romancing Mister Bridgerton (Bridgertons, #4)"
+S.C. Stephens,13517535,"Thoughtless (Thoughtless, #1)"
+Diana Gabaldon,10988,"Drums of Autumn (Outlander, #4)"
+Nora Roberts,6070950,"Bed of Roses (Bride Quartet, #2)"
+Sarah MacLean,6584134,"Nine Rules to Break When Romancing a Rake (Love By Numbers, #1)"
+Jeaniene Frost,1421990,"Halfway to the Grave (Night Huntress, #1)"
+Colleen Hoover,27362503,It Ends with Us
+Karen Marie Moning,743599,"Beyond the Highland Mist (Highlander, #1)"
+Nora Roberts,6781956,"Savor the Moment (Bride Quartet, #3)"
+J.R. Ward,1240662,"Lover Enshrined (Black Dagger Brotherhood, #6)"
+Colleen Hoover,19390926,"Point of Retreat (Slammed, #2)"
+Julie James,6642402,"Something About You (FBI/US Attorney, #1)"
+Sally   Thorne,25883848,The Hating Game
+Susan Elizabeth Phillips,73070,"It Had to Be You (Chicago Stars, #1)"
+Sarah MacLean,10428803,"A Rogue by Any Other Name (The Rules of Scoundrels, #1)"
+Nicholas Sparks,3466,"The Wedding (The Notebook, #2)"
+Sarah J. Maas,17167166,"Crown of Midnight (Throne of Glass, #2)"
+Emily Giffin,42156,"Something Borrowed (Darcy & Rachel, #1)"
+Rainbow Rowell,18081809,Landline
+Lisa Kleypas,105574,"Scandal in Spring (Wallflowers, #4)"
+Jessica Sorensen,16113791,"The Coincidence of Callie & Kayden (The Coincidence, #1)"
+Courtney Milan,13489919,"The Duchess War (Brothers Sinister, #1)"
+Kylie Scott,17983690,"Lick (Stage Dive, #1)"
+J.R. Ward,5098079,"Lover Avenged (Black Dagger Brotherhood, #7)"
+Jennifer Probst,13486122,"The Marriage Bargain (Marriage to a Billionaire, #1)"
+Nora Roberts,59829,"Dance Upon the Air (Three Sisters Island, #1)"
+Nalini Singh,178476,Slave to Sensation (Psy-Changeling #1)
+Shannon Hale,248483,"Austenland (Austenland, #1)"
+Nora Roberts,114145,"Born in Fire (Born In Trilogy, #1)"
+Sherrilyn Kenyon,84136,Fantasy Lover (Dark-Hunterverse #1)
+Nicholas Sparks,15926,Nights in Rodanthe
+Nora Roberts,59810,"Jewels of the Sun (Gallaghers of Ardmore, #1)"
+Julie Garwood,107779,"The Bride (Lairds' Fiancées, #1)"
+Tessa Dare,18052985,"Romancing the Duke (Castles Ever After, #1)"
+Julia Quinn,110396,"When He was Wicked (Bridgertons, #6)"
+Julia Quinn,110386,"To Sir Phillip, With Love (Bridgertons, #5)"
+J.R. Ward,7046495,"Lover Mine (Black Dagger Brotherhood, #8)"
+Mia Sheridan,32822135,Archer's Voice
+Julia Quinn,9571478,"Just Like Heaven (Smythe-Smith Quartet, #1)"
+Gayle Forman,17623975,"Just One Day (Just One Day, #1)"
+Abbi Glines,17029526,"Never Too Far (Rosemary Beach, #2; Too Far, #2)"
+Nicholas Sparks,15925,The Guardian
+Nicholas Sparks,25402194,The Choice
+Julie Kagawa,6644117,"The Iron King (The Iron Fey, #1)"
+Penelope Douglas,20803953,"Bully (Fall Away, #1)"
+Nora Roberts,114159,"Blue Dahlia (In the Garden, #1)"
+Nora Roberts,628139,"Sea Swept (Chesapeake Bay Saga, #1)"
+Nicholas Sparks,3462,The Rescue
+Julie James,3863861,Just the Sexiest Man Alive
+Loretta Chase,425377,"Lord of Scoundrels (Scoundrels, #3)"
+Diana Gabaldon,10967,"The Fiery Cross (Outlander, #5)"
+Simone Elkeles,7137775,"Rules of Attraction (Perfect Chemistry, #2)"
+Nicholas Sparks,10766509,The Best of Me
+Julia Quinn,110393,"It's in His Kiss (Bridgertons, #7)"
+Jennifer Ashley,5981872,"The Madness of Lord Ian Mackenzie (Mackenzies & McBrides, #1)"
+Lisa Kleypas,2948832,"Seduce Me at Sunrise (The Hathaways, #2)"
+Kristen Ashley,12299419,"Mystery Man (Dream Man, #1)"
+Nicholas Sparks,3463,A Bend in the Road
+Julia Quinn,110387,"The Secret Diaries of Miss Miranda Cheever (Bevelstoke, #1)"
+Ian McEwan,6867,Atonement
+Sherrilyn Kenyon,6944032,"Night Pleasures (Dark-Hunter, #1)"
+Nalini Singh,3819326,"Angels' Blood (Guild Hunter, #1)"
+Lisa Kleypas,6264710,"Tempt Me at Twilight (The Hathaways, #3)"
+K.A. Tucker,15990969,"Ten Tiny Breaths (Ten Tiny Breaths, #1)"
+Gena Showalter,476543,The Darkest Night (Lords of the Underworld #1)
+Jenny Han,20698530,"P.S. I Still Love You (To All the Boys I've Loved Before, #2)"
+Judith McNaught,129619,"A Kingdom of Dreams (Westmoreland, #1)"
+Katy Evans,17617277,"Real (Real, #1)"
+Lisa Kleypas,306364,"Sugar Daddy (Travises, #1)"
+Susan Elizabeth Phillips,73086,Kiss an Angel
+Nora Roberts,762053,"Key of Light (Key Trilogy, #1)"
+Eloisa James,8449698,"When Beauty Tamed the Beast (Fairy Tales, #2)"
+Nora Roberts,12099007,"The Last Boyfriend (Inn BoonsBoro, #2)"
+Kasie West,15283043,The Distance Between Us
+Paullina Simons,83144,"The Bronze Horseman (The Bronze Horseman, #1)"
+Kresley Cole,14384,A Hunger Like No Other (Immortals After Dark #2)
+Susan Elizabeth Phillips,73089,"Match Me If You Can (Chicago Stars, #6)"
+Sarah MacLean,13424032,"One Good Earl Deserves a Lover (The Rules of Scoundrels, #2)"
+Nora Roberts,59830,"Heaven and Earth (Three Sisters Island, #2)"
+Sylvain Reynard,13639050,"Gabriel's Rapture (Gabriel's Inferno, #2)"
+Elle Kennedy,25564665,"The Mistake (Off-Campus, #2)"
+E.L. James,10818853,"Fifty Shades of Grey (Fifty Shades, #1)"
+Abbi Glines,11479285,"Breathe (Sea Breeze, #1)"
+Lisa Kleypas,4066312,"Smooth Talking Stranger (Travises, #3)"
+Julia Quinn,110388,"On the Way to the Wedding (Bridgertons, #8)"
+Jude Deveraux,73385,A Knight in Shining Armor
+Nora Roberts,59822,"Face the Fire (Three Sisters Island, #3)"
+Julia Quinn,861326,"The Viscount Who Loved Me (Bridgertons, #2)"
+Jeaniene Frost,2168860,"One Foot in the Grave (Night Huntress, #2)"
+R.L. Mathewson,12351649,"Perfection (Neighbor from Hell, #2)"
+Sophie Kinsella,33722,The Undomestic Goddess
+Susan Elizabeth Phillips,73064,"Natural Born Charmer (Chicago Stars, #7)"
+Nora Roberts,26046,"Morrigan's Cross (Circle Trilogy, #1)"
+Nora Roberts,86321,"Black Rose (In the Garden, #2)"
+Jennifer L. Armentrout,13362536,"Opal (Lux, #3)"
+Tina Reber,8204005,"Love Unscripted (Love, #1)"
+Nora Roberts,59821,"Red Lily (In the Garden, #3)"
+J.R. Ward,10993282,"Lover Reborn (Black Dagger Brotherhood, #10)"
+Julie James,5082599,Practice Makes Perfect
+Jill Shalvis,7863423,"Simply Irresistible (Lucky Harbor, #1)"
+Lisa Kleypas,330721,"Dreaming of You (The Gamblers, #2)"
+Nora Roberts,534733,"Rising Tides (Chesapeake Bay Saga, #2)"
+Nora Roberts,59825,"Inner Harbor (Chesapeake Bay Saga, #3)"
+Nora Roberts,248682,"Key of Knowledge (Key Trilogy, #2)"
+S.C. Stephens,15842441,"Effortless (Thoughtless, #2)"
+Erin Watt,28678119,"Paper Princess (The Royals, #1)"
+Nora Roberts,98405,"Born in Shame (Born In Trilogy, #3)"
+Georgette Heyer,261689,The Grand Sophy
+Kristen Ashley,6538757,"Rock Chick (Rock Chick, #1)"
+Penny Reid,17673307,"Neanderthal Seeks Human (Knitting in the City, #1)"
+Nora Roberts,16158558,"Dark Witch (The Cousins O'Dwyer Trilogy, #1)"
+John Green,33290383,Let it Snow
+Courtney Milan,13190596,"The Governess Affair (Brothers Sinister, #0.5)"
+Nicholas Sparks,3464,"True Believer (Jeremy Marsh & Lexie Darnell, #1)"
+Karen Marie Moning,112754,"Kiss of the Highlander (Highlander, #4)"
+Nora Roberts,114206,"Key of Valor (Key Trilogy, #3)"
+Jennifer Crusie,33727,"Welcome to Temptation (Dempseys, #1)"
+Sophie Kinsella,1358844,Remember Me?
+Nora Roberts,12716613,The Witness
+Christina Lauren,16117506,"Beautiful Stranger (Beautiful Bastard, #2)"
+Olivia Cunning,8379374,"Backstage Pass (Sinners on Tour, #1)"
+Thea Harrison,9637479,"Dragon Bound (Elder Races, #1)"
+Colleen Hoover,17340050,"Losing Hope (Hopeless, #2)"
+Nora Roberts,114187,"Chesapeake Blue (Chesapeake Bay Saga, #4)"
+Julia Quinn,5500109,"What Happens in London (Bevelstoke, #2)"
+Abbi Glines,12900174,"The Vincent Boys (The Vincent Boys, #1)"
+Susan Elizabeth Phillips,73084,"Heaven, Texas (Chicago Stars, #2)"
+Nora Roberts,407234,"Blood Brothers (Sign of Seven, #1)"
+Meljean Brook,7864587,"The Iron Duke (Iron Seas, #1)"
+Jessica Sorensen,15717876,"The Secret of Ella and Micha (The Secret, #1)"
+Tessa Dare,11738128,"A Week to Be Wicked (Spindle Cove, #2)"
+Tara Sivec,23016317,"Seduction and Snacks (Chocolate Lovers, #1)"
+Lisa Kleypas,674220,"Again the Magic (Wallflowers, #0)"
+Tessa Dare,23587120,"When a Scot Ties the Knot (Castles Ever After, #3)"
+E.L. James,25644601,"Grey (Fifty Shades, #4)"
+Jeaniene Frost,7039218,"Once Burned (Night Prince, #1)"
+Jessica Park,11096647,"Flat-Out Love (Flat-Out Love, #1)"
+Susan Elizabeth Phillips,73100,"This Heart of Mine (Chicago Stars, #5)"
+Jennifer E. Smith,15790873,"This Is What Happy Looks Like (This is What Happy Looks Like, #1)"
+E.L. James,13536860,"Fifty Shades Freed (Fifty Shades, #3)"
+Alice Clayton,15858248,"Wallbanger (Cocktail, #1)"
+Graeme Simsion,16181775,"The Rosie Project (Don Tillman, #1)"
+V.E. Schwab,13638125,"Vicious (Villains, #1)"
+Gregory Maguire,37442,"Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)"
+Karen Marie Moning,344262,"Bloodfever (Fever, #2)"
+Samantha Young,15760001,"On Dublin Street (On Dublin Street, #1)"
+Emily Brontë,6185,Wuthering Heights
+J.R. Ward,42900,"Lover Awakened (Black Dagger Brotherhood, #3)"
+Karen Marie Moning,2702704,"Faefever (Fever, #3)"
+Karen Marie Moning,7304203,"Shadowfever (Fever, #5)"
+Karen Marie Moning,6050298,"Dreamfever (Fever, #4)"
+Ilona Andrews,38619,"Magic Bites (Kate Daniels, #1)"
+Matthew Quick,13539044,The Silver Linings Playbook
+J.R. Ward,304027,"Lover Unbound (Black Dagger Brotherhood, #5)"
+Richelle Mead,235718,"Succubus Blues (Georgina Kincaid, #1)"
+Nathaniel Hawthorne,12296,The Scarlet Letter
+Kelley Armstrong,11918,"Bitten (Women of the Otherworld, #1)"
+C.J. Roberts,12513614,"Captive in the Dark (The Dark Duet, #1)"
+Anne Bishop,15711341,"Written in Red (The Others, #1)"
+Jeaniene Frost,3570231,"At Grave's End (Night Huntress, #3)"
+Nicholas Sparks,3473,A Walk to Remember
+Jojo Moyes,25041504,"After You (Me Before You, #2)"
+Patricia Briggs,285205,"Blood Bound (Mercy Thompson, #2)"
+Jeaniene Frost,5604848,"Destined for an Early Grave (Night Huntress, #4)"
+Amy Tan,7763,The Joy Luck Club
+Chloe Neill,4447622,"Some Girls Bite (Chicagoland Vampires, #1)"
+Charlaine Harris,7091488,"Dead in the Family (Sookie Stackhouse, #10)"
+Barbara Kingsolver,7244,The Poisonwood Bible
+Larissa Ione,2679633,"Pleasure Unbound (Demonica, #1)"
+Ilona Andrews,1811543,"Magic Burns (Kate Daniels, #2)"
+Lisa Genova,2153405,Still Alice
+Jodi Picoult,14866,Nineteen Minutes
+Patricia Briggs,1412138,"Iron Kissed (Mercy Thompson, #3)"
+Ilona Andrews,6479550,"Magic Bleeds (Kate Daniels, #4)"
+Charlaine Harris,7981206,"Dead Reckoning (Sookie Stackhouse, #11)"
+Brian K. Vaughan,193589753,"Saga, Vol. 3 (Saga, #3)"
+Jeaniene Frost,6871617,"This Side of the Grave (Night Huntress, #5)"
+Patricia Briggs,3128411,"Bone Crossed (Mercy Thompson, #4)"
+Jojo Moyes,18693716,One Plus One
+R.K. Lilley,16134782,"In Flight (Up in the Air, #1)"
+Patricia Briggs,2355575,"Cry Wolf (Alpha & Omega, #1)"
+Deborah Harkness,11559200,"Shadow of Night (All Souls Trilogy, #2)"
+Khaled Hosseini,16115612,And the Mountains Echoed
+C.S. Pacat,9305362,"Captive Prince (Captive Prince, #1)"
+J. Lynn,13614836,"Tempting the Best Man (Gamble Brothers, #1)"
+Brian K. Vaughan,230933674,"Saga, Vol. 4 (Saga, #4)"
+Sara Gruen,43641,Water for Elephants
+Madeline Miller,11250317,The Song of Achilles
+Kresley Cole,6388558,The Warlord Wants Forever (Immortals After Dark #1)
+Cecelia Ahern,147865,"Love, Rosie"
+William Shakespeare,8852,Macbeth
+Patricia Briggs,6587387,"Silver Borne (Mercy Thompson, #5)"
+Emma Cline,26893819,The Girls
+Nalini Singh,6582637,"Archangel's Kiss (Guild Hunter, #2)"
+Jennifer L. Armentrout,14060046,Obsession
+Jeaniene Frost,7954556,"One Grave at a Time (Night Huntress, #6)"
+Richelle Mead,2754510,Storm Born (Dark Swan #1)
+Tracey Garvis-Graves,15505346,"On the Island (On the Island, #1)"
+Ilona Andrews,8559047,"Magic Slays (Kate Daniels, #5)"
+Hannah Kent,17333319,Burial Rites
+C.J. Roberts,13612739,"Seduced in the Dark (The Dark Duet, #2)"
+Jeaniene Frost,6547187,"First Drop of Crimson (Night Huntress World, #1)"
+Sue Monk Kidd,18079776,The Invention of Wings
+Gail Carriger,6933876,"Changeless (Parasol Protectorate, #2)"
+Chloe Neill,6319978,"Friday Night Bites (Chicagoland Vampires, #2)"
+Joanna Wylde,17375956,"Reaper's Property (Reapers MC, #1)"
+Samantha Shannon,17199504,"The Bone Season (The Bone Season, #1)"
+Richelle Mead,1316617,"Succubus on Top (Georgina Kincaid, #2)"
+Jodi Ellen Malpas,16140036,"This Man (This Man, #1)"
+Carol Rifka Brunt,12875258,Tell the Wolves I'm Home
+Jeaniene Frost,13125234,"Twice Tempted (Night Prince, #2)"
+Sylvia Day,17876893,"Captivated by You (Crossfire, #4)"
+J.R. Ward,13570854,"Lover at Last (Black Dagger Brotherhood, #11)"
+Colleen Hoover,17788401,Ugly Love
