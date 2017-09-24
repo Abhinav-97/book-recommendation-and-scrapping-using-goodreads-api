@@ -32,8 +32,10 @@ def get_book_ids(url):
 		# page_url = url + '?page={}'.format(str(i))
 		print(page_url)
 		page = s.get(page_url)
+		print("page open")
 		# page = urlopen(page_url)  
 		soup = BeautifulSoup(page.content, 'html.parser')
+		# print("BeautifulSoup")
 		content = soup.find('div',{'class':'content'})
 		# print(content.encode('utf-8').decode('utf-8'))
 		main_content_container = content.find('div', {'class': 'mainContentContainer'})
@@ -53,7 +55,7 @@ def get_book_ids(url):
 			# print(book_title.decode('utf-8'))
 			book_link = book_links[0].get('href')
 			book_link = book_link.split('/')
-			# print(book_link)
+			print(book_link)
 			book_id= book_link[-1].split('.')[0]
 
 			book_ids.append((book_id, book_title,book_author))
@@ -94,10 +96,10 @@ for ids, books, author in finbook_list:
 	final_books.append(books)
 	final_book_authors.append(author)
 
-book_data = pd.DataFrame({'book_id': final_book_ids,
-						  'book_title': final_books,
-						   'author': final_book_authors})
-book_data.to_csv('book_data.csv', index=False)
+# book_data = pd.DataFrame({'book_id': final_book_ids,
+# 						  'book_title': final_books,
+# 						   'author': final_book_authors})
+# book_data.to_csv('book_data.csv', index=False)
 
-with open('book_ids.txt', 'wb') as fp:
-	pickle.dump(finbook_list,fp)
+# with open('book_ids.txt', 'wb') as fp:
+# 	pickle.dump(finbook_list,fp)
