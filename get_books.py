@@ -17,7 +17,8 @@ with open('book_reviews.txt', 'rb') as fp:
 with open('user_ids.txt', 'rb') as fp:
 	user_ids = pickle.load(fp)
 # print(user_ids)
-print(book_dict)
+# print(book_dict)
+print(len(user_ids))
 print(len(book_dict))
 
 def get_books(user_id):
@@ -55,7 +56,7 @@ def get_books(user_id):
 	with open('book_reviews.txt', 'wb') as fp:
 		pickle.dump(book_dict,fp)
 
-for i in range(75,100):
+for i in range(100,120):
 	print(i)
 	get_books(user_ids[i])
 # print(book_dict)
